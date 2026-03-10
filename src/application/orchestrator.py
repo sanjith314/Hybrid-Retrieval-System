@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+from typing import Any
+
 from src.domain.entities import ScoredDocument
 from src.infrastructure.fusion.normalizer import min_max_normalize
 
@@ -37,3 +39,32 @@ class Orchestrator:
             return self._fusion.fuse(sparse_norm, dense_norm, top_k)
         else:
             raise ValueError(f"Unknown mode '{mode}'. Choose sparse, dense, or hybrid.")
+
+    def search_detailed(self, query: str, top_k: int = 10) -> dict[str, Any]:
+        """Run hybrid pipeline and return per-branch scores for explainability.
+
+        Returns a dict with keys:
+          results       – final fused ranking
+          sparse_raw    – {doc_id: raw_score}
+          dense_raw     – {doc_id: raw_score}
+          sparse_norm   – {doc_id: normalised_score}
+          dense_norm    – {doc_id: normalised_score}
+          alpha         – the fusion weight used
+        """
+        sparse_results = self._sparse.retrieve(query, top_k)
+        dense_results = self._dense.retrieve(query, top_k)
+
+        sparse_norm = min_max_normalize(sparse_results)
+        dense_norm = min_max_normalize(dense_results)
+
+        fused = self._fusion.fuse(sparse_norm, dense_norm, top_k)
+
+        return {
+            "results": fused,
+            "sparse_raw": {sd.doc_id: sd.score for sd in sparse_results},
+            "dense_raw": {sd.doc_id: sd.score for sd in dense_results},
+            "sparse_norm": {sd.doc_id: sd.score for sd in sparse_norm},
+            "dense_norm": {sd.doc_id: sd.score for sd in dense_norm},
+            "alpha": self._fusion.alpha,
+        }
+

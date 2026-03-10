@@ -1,0 +1,50 @@
+[
+  {
+    "doc_id": "doc_001",
+    "title": "COVID-19 Vaccine Efficacy",
+    "abstract": "This study evaluates the efficacy of mRNA vaccines against COVID-19 and reports a 95% effectiveness rate in clinical trials.",
+    "text": "COVID-19 Vaccine Efficacy This study evaluates the efficacy of mRNA vaccines against COVID-19 and reports a 95% effectiveness rate in clinical trials."
+  },
+  {
+    "doc_id": "doc_002",
+    "title": "Natural Language Processing Advances",
+    "abstract": "Recent advances in transformer-based models have significantly improved performance on natural language understanding benchmarks.",
+    "text": "Natural Language Processing Advances Recent advances in transformer-based models have significantly improved performance on natural language understanding benchmarks."
+  },
+  {
+    "doc_id": "doc_003",
+    "title": "Climate Change and Biodiversity",
+    "abstract": "Global warming is causing shifts in species distributions and threatening biodiversity in tropical ecosystems.",
+    "text": "Climate Change and Biodiversity Global warming is causing shifts in species distributions and threatening biodiversity in tropical ecosystems."
+  },
+  {
+    "doc_id": "doc_004",
+    "title": "SARS-CoV-2 Variants",
+    "abstract": "Emerging variants of SARS-CoV-2 show increased transmissibility and partial immune escape from existing vaccines.",
+    "text": "SARS-CoV-2 Variants Emerging variants of SARS-CoV-2 show increased transmissibility and partial immune escape from existing vaccines."
+  },
+  {
+    "doc_id": "doc_005",
+    "title": "Deep Learning for Protein Folding",
+    "abstract": "AlphaFold demonstrates that deep learning can predict protein structures with atomic-level accuracy.",
+    "text": "Deep Learning for Protein Folding AlphaFold demonstrates that deep learning can predict protein structures with atomic-level accuracy."
+  },
+  {
+    "doc_id": "doc_006",
+    "title": "Renewable Energy Storage",
+    "abstract": "Lithium-ion battery improvements and solid-state batteries are enabling more efficient renewable energy storage solutions.",
+    "text": "Renewable Energy Storage Lithium-ion battery improvements and solid-state batteries are enabling more efficient renewable energy storage solutions."
+  },
+  {
+    "doc_id": "doc_007",
+    "title": "mRNA Vaccine Technology",
+    "abstract": "mRNA vaccine platforms can be rapidly adapted to new pathogens and have shown strong safety profiles in large-scale trials.",
+    "text": "mRNA Vaccine Technology mRNA vaccine platforms can be rapidly adapted to new pathogens and have shown strong safety profiles in large-scale trials."
+  },
+  {
+    "doc_id": "doc_008",
+    "title": "Quantum Computing Applications",
+    "abstract": "Quantum computers promise breakthroughs in cryptography, drug discovery, and optimization problems.",
+    "text": "Quantum Computing Applications Quantum computers promise breakthroughs in cryptography, drug discovery, and optimization problems."
+  }
+]

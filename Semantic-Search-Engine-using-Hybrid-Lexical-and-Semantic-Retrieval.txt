@@ -1,0 +1,126 @@
+# File: Semantic-Search-Engine-using-Hybrid-Lexical-and-Semantic-Retrieval.pdf
+# Pages: 7
+
+
+
+===== PAGE 1 =====
+preencoded.png
+Semantic Search Engine using Hybrid Lexical and 
+Semantic Retrieval
+A Hybrid IR Approach for Better Search Quality
+Team
+Poojan Patel
+Sanjith Jayasankar
+Course
+CS 582 – Information Retrieval
+Graduate Studies
+
+===== PAGE 2 =====
+preencoded.png
+The Problem: Limitations of Traditional Search
+The Challenge of Lexical Matching
+Traditional Information Retrieval systems rely heavily on exact keyword matching between 
+the query and the documents. This limits their ability to capture the nuance of natural 
+language.
+Keyword Blindness
+Systems struggle when synonyms or related concepts are used (e.g., matching 
+"doctor" but missing documents mentioning only "physician").
+Lack of Context
+Lexical models fail to grasp the deeper semantic meaning or intent behind the 
+user's query, leading to irrelevant results.
+Our Goal: Building a Hybrid Solution
+We aim to significantly improve search accuracy by building a unified engine that incorporates both the precision of keyword retrieval and the intelligence of 
+semantic understanding.
+
+===== PAGE 3 =====
+preencoded.png
+Why Hybrid Retrieval is the Future
+Modern users expect systems to "understand context." Combining lexical and semantic models provides a powerful synergy.
+Hybrid Retrieval 
+Workflow
+SBERT — Semantic Retrieval
+Meaning-based search
+Final Results
+Ordered, relevant responses
+Hybrid Ranker
+Merge and re-rank results
+BM25 — Lexical Retrieval
+Exact-term matching
+Input Query
+User search or question
+Lexical Precision
+Maintains strong performance on highly specific, entity-focused queries and ensures exact keyword matches are prioritized.
+• BM25 (Probabilistic Model)
+• TF-IDF (Term Frequency)
+Semantic Understanding
+Leverages neural networks to capture conceptual relationships and meaning, addressing synonyms and paraphrasing.
+• Sentence-BERT (S-BERT)
+• Dense Vector Embeddings
+
+===== PAGE 4 =====
+preencoded.png
+System Architecture and Methodology
+Our proposed system integrates distinct retrieval methods into a single, optimized ranking pipeline.
+1. Lexical Retrieval
+Implement traditional retrieval via BM25 and TF-IDF using Pyserini for robust keyword matching.
+2. Semantic Retrieval
+Encode queries and documents into dense vectors using Sentence-BERT (MiniLM-L6-v2) for meaning similarity.
+3. Hybrid Ranking
+Combine lexical and semantic scores using a weighted sum or reciprocal rank fusion (RRF) for final ranking.
+4. Comprehensive Evaluation
+Validate performance metrics (Precision, NDCG) against established baselines on standard IR datasets.
+
+===== PAGE 5 =====
+preencoded.png
+Data Sets and Baseline Models
+We will validate our hybrid model against leading benchmarks and established information retrieval systems.
+Data Ecosystem
+Utilizing standardized benchmarks ensures results are 
+comparable and scalable across different domains.
+• BEIR Benchmark: Domain-specific large-scale datasets 
+(e.g., FiQA for finance, NFCorpus for medicine, SCIDOCS 
+for academic papers).
+• Demo Datasets:  Smaller, diverse collections like 
+Wikipedia segments or BBC News articles for live 
+demonstration.
+Performance Baselines
+• B1: TF-IDFBaseline keyword model focused on term 
+frequency.
+• B2: BM25Probabilistic keyword model, a standard 
+industry baseline.
+• B3: Dense-OnlySemantic retrieval using Sentence -BERT 
+alone.
+• Proposed: Hybrid Retrieval BM25 + Semantic Score 
+Fusion.
+
+===== PAGE 6 =====
+preencoded.png
+Evaluation & Expected Results
+We measure success through established relevance metrics that capture both the quality and order of retrieved documents.
+Key Metrics for Validation
+Precision@k
+Measures the proportion of relevant documents 
+among the top k results.
+Recall@k
+Measures the fraction of all relevant documents 
+that are retrieved in the top k results.
+NDCG@k (Normalized Discounted 
+Cumulative Gain)
+A sophisticated metric that factors in the ranked 
+position of relevant results.
+Anticipated Outcomes
+Our hybrid model is expected to outperform individual lexical and dense-only 
+approaches, providing a significant uplift in overall search quality.
+Higher Accuracy: Measurable 
+increase in NDCG@k compared to 
+Baselines B1, B2, and B3.
+Contextual Understanding: 
+Demonstrated ability to handle 
+paraphrased queries effectively.
+Working Prototype: A deployable system showcasing real-time improvement 
+in search result relevance.
+
+===== PAGE 7 =====
+preencoded.png
+Thank You
+We welcome your questions and feedback on this hybrid approach to information retrieval.

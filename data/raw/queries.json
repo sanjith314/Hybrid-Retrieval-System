@@ -1,0 +1,14 @@
+[
+  {
+    "query_id": "q_001",
+    "claim": "mRNA vaccines are effective against COVID-19"
+  },
+  {
+    "query_id": "q_002",
+    "claim": "Transformer models improve NLP benchmarks"
+  },
+  {
+    "query_id": "q_003",
+    "claim": "Climate change threatens tropical biodiversity"
+  }
+]

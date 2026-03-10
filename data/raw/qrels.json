@@ -1,0 +1,22 @@
+[
+  {
+    "query_id": "q_001",
+    "relevant_doc_ids": [
+      "doc_001",
+      "doc_004",
+      "doc_007"
+    ]
+  },
+  {
+    "query_id": "q_002",
+    "relevant_doc_ids": [
+      "doc_002"
+    ]
+  },
+  {
+    "query_id": "q_003",
+    "relevant_doc_ids": [
+      "doc_003"
+    ]
+  }
+]

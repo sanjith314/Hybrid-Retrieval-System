@@ -2,6 +2,7 @@
 
 Usage:
     python -m src.main build-stub-index
+    python -m src.main build-index
     python -m src.main search --query "..." --top-k 10 --mode hybrid
     python -m src.main evaluate --mode hybrid --k 5 10 20
 """
@@ -10,6 +11,7 @@ from __future__ import annotations
 
 import argparse
 import sys
+from pathlib import Path
 
 from src.application.evaluate_use_case import EvaluateUseCase
 from src.application.orchestrator import Orchestrator
@@ -19,8 +21,13 @@ from src.infrastructure.data.corpus_store import InMemoryCorpusStore
 from src.infrastructure.data.dataset_loader import JsonFileDatasetLoader
 from src.infrastructure.evaluation.metrics import MetricsEngine
 from src.infrastructure.fusion.weighted_fusion import WeightedFusion
+from src.infrastructure.retrieval.bm25_retriever import BM25Retriever
 from src.infrastructure.retrieval.dense_stub import DenseStubRetriever
 from src.infrastructure.retrieval.sparse_stub import SparseStubRetriever
+
+
+def _bm25_index_path(settings: Settings) -> Path:
+    return settings.indexes_dir / "lexical" / "bm25.pkl"
 
 
 def _build_components(settings: Settings):
@@ -32,7 +39,16 @@ def _build_components(settings: Settings):
     for doc in loader.load_documents():
         store.add(doc)
 
-    sparse = SparseStubRetriever(store)
+    # Sparse retriever: use BM25 if index exists, else fall back to stub
+    idx_path = _bm25_index_path(settings)
+    if idx_path.exists():
+        sparse = BM25Retriever()
+        sparse.load_index(idx_path)
+        print(f"  [sparse] BM25 index loaded from {idx_path}")
+    else:
+        sparse = SparseStubRetriever(store)
+        print("  [sparse] Using Jaccard stub (run 'build-index' for real BM25)")
+
     dense = DenseStubRetriever(store)
     fusion = WeightedFusion(alpha=settings.alpha)
     orchestrator = Orchestrator(sparse, dense, fusion)
@@ -57,6 +73,29 @@ def cmd_build_stub_index(args: argparse.Namespace) -> None:
 
     print(f"✓ Sample data generated under {settings.data_dir / 'raw'}")
     print(f"  {len(docs)} documents, {len(queries)} queries, {len(qrels)} qrel entries")
+
+
+def cmd_build_index(args: argparse.Namespace) -> None:
+    settings = Settings()
+    settings.ensure_dirs()
+
+    loader = JsonFileDatasetLoader(settings.data_dir)
+    docs = loader.load_documents()
+
+    if not docs:
+        print("No documents found. Run 'build-stub-index' first to generate sample data.")
+        sys.exit(1)
+
+    # Build BM25 index
+    bm25 = BM25Retriever()
+    bm25.build_index(docs)
+
+    # Persist
+    idx_path = _bm25_index_path(settings)
+    bm25.save_index(idx_path)
+
+    print(f"✓ BM25 index built from {len(docs)} documents")
+    print(f"  Saved to {idx_path}")
 
 
 def cmd_search(args: argparse.Namespace) -> None:
@@ -107,12 +146,15 @@ def cmd_evaluate(args: argparse.Namespace) -> None:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="hybrid-retrieval",
-        description="Hybrid Retrieval System (BM25 + Semantic) — Phase 1 CLI",
+        description="Hybrid Retrieval System (BM25 + Semantic) CLI",
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
     # build-stub-index
     sub.add_parser("build-stub-index", help="Generate sample data files")
+
+    # build-index
+    sub.add_parser("build-index", help="Build BM25 index from corpus data")
 
     # search
     sp_search = sub.add_parser("search", help="Run a retrieval query")
@@ -136,6 +178,7 @@ def main() -> None:
 
     dispatch = {
         "build-stub-index": cmd_build_stub_index,
+        "build-index": cmd_build_index,
         "search": cmd_search,
         "evaluate": cmd_evaluate,
     }

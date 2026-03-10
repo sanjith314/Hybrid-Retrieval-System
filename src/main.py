@@ -3,6 +3,7 @@
 Usage:
     python -m src.main build-stub-index
     python -m src.main build-index
+    python -m src.main embed-index
     python -m src.main search --query "..." --top-k 10 --mode hybrid
     python -m src.main evaluate --mode hybrid --k 5 10 20
 """
@@ -23,11 +24,16 @@ from src.infrastructure.evaluation.metrics import MetricsEngine
 from src.infrastructure.fusion.weighted_fusion import WeightedFusion
 from src.infrastructure.retrieval.bm25_retriever import BM25Retriever
 from src.infrastructure.retrieval.dense_stub import DenseStubRetriever
+from src.infrastructure.retrieval.sbert_retriever import SBERTRetriever
 from src.infrastructure.retrieval.sparse_stub import SparseStubRetriever
 
 
 def _bm25_index_path(settings: Settings) -> Path:
     return settings.indexes_dir / "lexical" / "bm25.pkl"
+
+
+def _sbert_index_path(settings: Settings) -> Path:
+    return settings.indexes_dir / "dense" / "sbert_index.pkl"
 
 
 def _build_components(settings: Settings):
@@ -49,7 +55,15 @@ def _build_components(settings: Settings):
         sparse = SparseStubRetriever(store)
         print("  [sparse] Using Jaccard stub (run 'build-index' for real BM25)")
 
-    dense = DenseStubRetriever(store)
+    # Dense retriever: use SBERT if index exists, else fall back to stub
+    sbert_path = _sbert_index_path(settings)
+    if sbert_path.exists():
+        dense = SBERTRetriever()
+        dense.load_index(sbert_path)
+        print(f"  [dense]  SBERT index loaded from {sbert_path}")
+    else:
+        dense = DenseStubRetriever(store)
+        print("  [dense]  Using hash stub (run 'embed-index' for real SBERT)")
     fusion = WeightedFusion(alpha=settings.alpha)
     orchestrator = Orchestrator(sparse, dense, fusion)
 
@@ -95,6 +109,30 @@ def cmd_build_index(args: argparse.Namespace) -> None:
     bm25.save_index(idx_path)
 
     print(f"✓ BM25 index built from {len(docs)} documents")
+    print(f"  Saved to {idx_path}")
+
+
+def cmd_embed_index(args: argparse.Namespace) -> None:
+    settings = Settings()
+    settings.ensure_dirs()
+
+    loader = JsonFileDatasetLoader(settings.data_dir)
+    docs = loader.load_documents()
+
+    if not docs:
+        print("No documents found. Run 'build-stub-index' first to generate sample data.")
+        sys.exit(1)
+
+    # Build SBERT embeddings
+    print("Encoding documents with SBERT (downloading model if needed)...")
+    sbert = SBERTRetriever()
+    sbert.build_index(docs)
+
+    # Persist
+    idx_path = _sbert_index_path(settings)
+    sbert.save_index(idx_path)
+
+    print(f"✓ SBERT embeddings built from {len(docs)} documents")
     print(f"  Saved to {idx_path}")
 
 
@@ -156,6 +194,9 @@ def build_parser() -> argparse.ArgumentParser:
     # build-index
     sub.add_parser("build-index", help="Build BM25 index from corpus data")
 
+    # embed-index
+    sub.add_parser("embed-index", help="Build SBERT embeddings for dense retrieval")
+
     # search
     sp_search = sub.add_parser("search", help="Run a retrieval query")
     sp_search.add_argument("--query", required=True, help="Plain-text query")
@@ -179,6 +220,7 @@ def main() -> None:
     dispatch = {
         "build-stub-index": cmd_build_stub_index,
         "build-index": cmd_build_index,
+        "embed-index": cmd_embed_index,
         "search": cmd_search,
         "evaluate": cmd_evaluate,
     }

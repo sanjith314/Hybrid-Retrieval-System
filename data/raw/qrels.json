@@ -1,22 +1,6805 @@
 [
   {
-    "query_id": "q_001",
+    "query_id": "q_1",
     "relevant_doc_ids": [
-      "doc_001",
-      "doc_004",
-      "doc_007"
+      "31715818"
     ]
   },
   {
-    "query_id": "q_002",
+    "query_id": "q_3",
     "relevant_doc_ids": [
-      "doc_002"
+      "14717500"
     ]
   },
   {
-    "query_id": "q_003",
+    "query_id": "q_5",
     "relevant_doc_ids": [
-      "doc_003"
+      "13734012"
+    ]
+  },
+  {
+    "query_id": "q_13",
+    "relevant_doc_ids": [
+      "1606628"
+    ]
+  },
+  {
+    "query_id": "q_36",
+    "relevant_doc_ids": [
+      "11705328",
+      "5152028"
+    ]
+  },
+  {
+    "query_id": "q_42",
+    "relevant_doc_ids": [
+      "18174210"
+    ]
+  },
+  {
+    "query_id": "q_48",
+    "relevant_doc_ids": [
+      "13734012"
+    ]
+  },
+  {
+    "query_id": "q_49",
+    "relevant_doc_ids": [
+      "5953485"
+    ]
+  },
+  {
+    "query_id": "q_50",
+    "relevant_doc_ids": [
+      "12580014"
+    ]
+  },
+  {
+    "query_id": "q_51",
+    "relevant_doc_ids": [
+      "45638119"
+    ]
+  },
+  {
+    "query_id": "q_53",
+    "relevant_doc_ids": [
+      "45638119"
+    ]
+  },
+  {
+    "query_id": "q_54",
+    "relevant_doc_ids": [
+      "49556906"
+    ]
+  },
+  {
+    "query_id": "q_56",
+    "relevant_doc_ids": [
+      "4709641"
+    ]
+  },
+  {
+    "query_id": "q_57",
+    "relevant_doc_ids": [
+      "4709641"
+    ]
+  },
+  {
+    "query_id": "q_70",
+    "relevant_doc_ids": [
+      "4414547",
+      "5956380"
+    ]
+  },
+  {
+    "query_id": "q_72",
+    "relevant_doc_ids": [
+      "6076903"
+    ]
+  },
+  {
+    "query_id": "q_75",
+    "relevant_doc_ids": [
+      "4387784"
+    ]
+  },
+  {
+    "query_id": "q_94",
+    "relevant_doc_ids": [
+      "1215116"
+    ]
+  },
+  {
+    "query_id": "q_99",
+    "relevant_doc_ids": [
+      "18810195"
+    ]
+  },
+  {
+    "query_id": "q_100",
+    "relevant_doc_ids": [
+      "4381486"
+    ]
+  },
+  {
+    "query_id": "q_113",
+    "relevant_doc_ids": [
+      "6157837"
+    ]
+  },
+  {
+    "query_id": "q_115",
+    "relevant_doc_ids": [
+      "33872649"
+    ]
+  },
+  {
+    "query_id": "q_118",
+    "relevant_doc_ids": [
+      "6372244"
+    ]
+  },
+  {
+    "query_id": "q_124",
+    "relevant_doc_ids": [
+      "4883040"
+    ]
+  },
+  {
+    "query_id": "q_127",
+    "relevant_doc_ids": [
+      "21598000"
+    ]
+  },
+  {
+    "query_id": "q_128",
+    "relevant_doc_ids": [
+      "8290953"
+    ]
+  },
+  {
+    "query_id": "q_129",
+    "relevant_doc_ids": [
+      "27768226"
+    ]
+  },
+  {
+    "query_id": "q_130",
+    "relevant_doc_ids": [
+      "27768226"
+    ]
+  },
+  {
+    "query_id": "q_132",
+    "relevant_doc_ids": [
+      "7975937"
+    ]
+  },
+  {
+    "query_id": "q_133",
+    "relevant_doc_ids": [
+      "12640810",
+      "16280642",
+      "17934082",
+      "38485364",
+      "6969753"
+    ]
+  },
+  {
+    "query_id": "q_137",
+    "relevant_doc_ids": [
+      "26016929"
+    ]
+  },
+  {
+    "query_id": "q_141",
+    "relevant_doc_ids": [
+      "14437255",
+      "6955746"
+    ]
+  },
+  {
+    "query_id": "q_142",
+    "relevant_doc_ids": [
+      "10582939"
+    ]
+  },
+  {
+    "query_id": "q_143",
+    "relevant_doc_ids": [
+      "10582939"
+    ]
+  },
+  {
+    "query_id": "q_146",
+    "relevant_doc_ids": [
+      "10582939"
+    ]
+  },
+  {
+    "query_id": "q_148",
+    "relevant_doc_ids": [
+      "1084345"
+    ]
+  },
+  {
+    "query_id": "q_163",
+    "relevant_doc_ids": [
+      "18872233"
+    ]
+  },
+  {
+    "query_id": "q_171",
+    "relevant_doc_ids": [
+      "12670680"
+    ]
+  },
+  {
+    "query_id": "q_179",
+    "relevant_doc_ids": [
+      "16322674",
+      "17450673",
+      "23557241",
+      "27123743"
+    ]
+  },
+  {
+    "query_id": "q_180",
+    "relevant_doc_ids": [
+      "16966326"
+    ]
+  },
+  {
+    "query_id": "q_183",
+    "relevant_doc_ids": [
+      "12827098"
+    ]
+  },
+  {
+    "query_id": "q_185",
+    "relevant_doc_ids": [
+      "18340282"
+    ]
+  },
+  {
+    "query_id": "q_198",
+    "relevant_doc_ids": [
+      "2177022"
+    ]
+  },
+  {
+    "query_id": "q_208",
+    "relevant_doc_ids": [
+      "13519661"
+    ]
+  },
+  {
+    "query_id": "q_212",
+    "relevant_doc_ids": [
+      "22038539"
+    ]
+  },
+  {
+    "query_id": "q_213",
+    "relevant_doc_ids": [
+      "13625993"
+    ]
+  },
+  {
+    "query_id": "q_216",
+    "relevant_doc_ids": [
+      "21366394"
+    ]
+  },
+  {
+    "query_id": "q_217",
+    "relevant_doc_ids": [
+      "21366394"
+    ]
+  },
+  {
+    "query_id": "q_218",
+    "relevant_doc_ids": [
+      "21366394"
+    ]
+  },
+  {
+    "query_id": "q_219",
+    "relevant_doc_ids": [
+      "21366394"
+    ]
+  },
+  {
+    "query_id": "q_230",
+    "relevant_doc_ids": [
+      "3067015"
+    ]
+  },
+  {
+    "query_id": "q_232",
+    "relevant_doc_ids": [
+      "10536636"
+    ]
+  },
+  {
+    "query_id": "q_233",
+    "relevant_doc_ids": [
+      "4388470"
+    ]
+  },
+  {
+    "query_id": "q_236",
+    "relevant_doc_ids": [
+      "4388470"
+    ]
+  },
+  {
+    "query_id": "q_237",
+    "relevant_doc_ids": [
+      "4942718"
+    ]
+  },
+  {
+    "query_id": "q_238",
+    "relevant_doc_ids": [
+      "2251426"
+    ]
+  },
+  {
+    "query_id": "q_239",
+    "relevant_doc_ids": [
+      "14079881"
+    ]
+  },
+  {
+    "query_id": "q_248",
+    "relevant_doc_ids": [
+      "1568684"
+    ]
+  },
+  {
+    "query_id": "q_249",
+    "relevant_doc_ids": [
+      "1568684"
+    ]
+  },
+  {
+    "query_id": "q_261",
+    "relevant_doc_ids": [
+      "10697096",
+      "1122279"
+    ]
+  },
+  {
+    "query_id": "q_268",
+    "relevant_doc_ids": [
+      "970012"
+    ]
+  },
+  {
+    "query_id": "q_269",
+    "relevant_doc_ids": [
+      "970012"
+    ]
+  },
+  {
+    "query_id": "q_274",
+    "relevant_doc_ids": [
+      "11614737"
+    ]
+  },
+  {
+    "query_id": "q_275",
+    "relevant_doc_ids": [
+      "14241418",
+      "14819804",
+      "4961038"
+    ]
+  },
+  {
+    "query_id": "q_279",
+    "relevant_doc_ids": [
+      "14376683"
+    ]
+  },
+  {
+    "query_id": "q_294",
+    "relevant_doc_ids": [
+      "10874408"
+    ]
+  },
+  {
+    "query_id": "q_295",
+    "relevant_doc_ids": [
+      "20310709"
+    ]
+  },
+  {
+    "query_id": "q_298",
+    "relevant_doc_ids": [
+      "39381118"
+    ]
+  },
+  {
+    "query_id": "q_300",
+    "relevant_doc_ids": [
+      "3553087"
+    ]
+  },
+  {
+    "query_id": "q_303",
+    "relevant_doc_ids": [
+      "4388470"
+    ]
+  },
+  {
+    "query_id": "q_312",
+    "relevant_doc_ids": [
+      "6173523"
+    ]
+  },
+  {
+    "query_id": "q_314",
+    "relevant_doc_ids": [
+      "4347374"
+    ]
+  },
+  {
+    "query_id": "q_324",
+    "relevant_doc_ids": [
+      "2014909"
+    ]
+  },
+  {
+    "query_id": "q_327",
+    "relevant_doc_ids": [
+      "17997584"
+    ]
+  },
+  {
+    "query_id": "q_338",
+    "relevant_doc_ids": [
+      "23349986"
+    ]
+  },
+  {
+    "query_id": "q_343",
+    "relevant_doc_ids": [
+      "5884524",
+      "7873737"
+    ]
+  },
+  {
+    "query_id": "q_350",
+    "relevant_doc_ids": [
+      "16927286"
+    ]
+  },
+  {
+    "query_id": "q_354",
+    "relevant_doc_ids": [
+      "8774475"
+    ]
+  },
+  {
+    "query_id": "q_362",
+    "relevant_doc_ids": [
+      "38587347"
+    ]
+  },
+  {
+    "query_id": "q_380",
+    "relevant_doc_ids": [
+      "19005293"
+    ]
+  },
+  {
+    "query_id": "q_384",
+    "relevant_doc_ids": [
+      "13770184"
+    ]
+  },
+  {
+    "query_id": "q_385",
+    "relevant_doc_ids": [
+      "9767444",
+      "9955779"
+    ]
+  },
+  {
+    "query_id": "q_386",
+    "relevant_doc_ids": [
+      "16495649"
+    ]
+  },
+  {
+    "query_id": "q_388",
+    "relevant_doc_ids": [
+      "1148122"
+    ]
+  },
+  {
+    "query_id": "q_399",
+    "relevant_doc_ids": [
+      "791050"
+    ]
+  },
+  {
+    "query_id": "q_410",
+    "relevant_doc_ids": [
+      "14924526"
+    ]
+  },
+  {
+    "query_id": "q_411",
+    "relevant_doc_ids": [
+      "14924526"
+    ]
+  },
+  {
+    "query_id": "q_415",
+    "relevant_doc_ids": [
+      "6309659"
+    ]
+  },
+  {
+    "query_id": "q_421",
+    "relevant_doc_ids": [
+      "11172205"
+    ]
+  },
+  {
+    "query_id": "q_431",
+    "relevant_doc_ids": [
+      "28937856"
+    ]
+  },
+  {
+    "query_id": "q_436",
+    "relevant_doc_ids": [
+      "14637235"
+    ]
+  },
+  {
+    "query_id": "q_437",
+    "relevant_doc_ids": [
+      "18399038"
+    ]
+  },
+  {
+    "query_id": "q_439",
+    "relevant_doc_ids": [
+      "4423559"
+    ]
+  },
+  {
+    "query_id": "q_440",
+    "relevant_doc_ids": [
+      "4423559"
+    ]
+  },
+  {
+    "query_id": "q_443",
+    "relevant_doc_ids": [
+      "10165258"
+    ]
+  },
+  {
+    "query_id": "q_452",
+    "relevant_doc_ids": [
+      "12804937",
+      "464511"
+    ]
+  },
+  {
+    "query_id": "q_475",
+    "relevant_doc_ids": [
+      "18678095"
+    ]
+  },
+  {
+    "query_id": "q_478",
+    "relevant_doc_ids": [
+      "14767844"
+    ]
+  },
+  {
+    "query_id": "q_491",
+    "relevant_doc_ids": [
+      "56893404"
+    ]
+  },
+  {
+    "query_id": "q_501",
+    "relevant_doc_ids": [
+      "17930286"
+    ]
+  },
+  {
+    "query_id": "q_502",
+    "relevant_doc_ids": [
+      "13071728"
+    ]
+  },
+  {
+    "query_id": "q_507",
+    "relevant_doc_ids": [
+      "30774694"
+    ]
+  },
+  {
+    "query_id": "q_508",
+    "relevant_doc_ids": [
+      "13980338"
+    ]
+  },
+  {
+    "query_id": "q_513",
+    "relevant_doc_ids": [
+      "13230773"
+    ]
+  },
+  {
+    "query_id": "q_514",
+    "relevant_doc_ids": [
+      "16256507"
+    ]
+  },
+  {
+    "query_id": "q_516",
+    "relevant_doc_ids": [
+      "29564505"
+    ]
+  },
+  {
+    "query_id": "q_517",
+    "relevant_doc_ids": [
+      "15663829"
+    ]
+  },
+  {
+    "query_id": "q_521",
+    "relevant_doc_ids": [
+      "34873974"
+    ]
+  },
+  {
+    "query_id": "q_525",
+    "relevant_doc_ids": [
+      "13639330"
+    ]
+  },
+  {
+    "query_id": "q_527",
+    "relevant_doc_ids": [
+      "3863543"
+    ]
+  },
+  {
+    "query_id": "q_528",
+    "relevant_doc_ids": [
+      "5476778"
+    ]
+  },
+  {
+    "query_id": "q_532",
+    "relevant_doc_ids": [
+      "12991445"
+    ]
+  },
+  {
+    "query_id": "q_533",
+    "relevant_doc_ids": [
+      "12991445"
+    ]
+  },
+  {
+    "query_id": "q_535",
+    "relevant_doc_ids": [
+      "39368721"
+    ]
+  },
+  {
+    "query_id": "q_536",
+    "relevant_doc_ids": [
+      "16056514"
+    ]
+  },
+  {
+    "query_id": "q_539",
+    "relevant_doc_ids": [
+      "13282296"
+    ]
+  },
+  {
+    "query_id": "q_540",
+    "relevant_doc_ids": [
+      "11886686",
+      "25007443"
+    ]
+  },
+  {
+    "query_id": "q_544",
+    "relevant_doc_ids": [
+      "24221369"
+    ]
+  },
+  {
+    "query_id": "q_549",
+    "relevant_doc_ids": [
+      "9433958"
+    ]
+  },
+  {
+    "query_id": "q_551",
+    "relevant_doc_ids": [
+      "33499189"
+    ]
+  },
+  {
+    "query_id": "q_552",
+    "relevant_doc_ids": [
+      "1471041"
+    ]
+  },
+  {
+    "query_id": "q_554",
+    "relevant_doc_ids": [
+      "1049501"
+    ]
+  },
+  {
+    "query_id": "q_560",
+    "relevant_doc_ids": [
+      "40096222"
+    ]
+  },
+  {
+    "query_id": "q_569",
+    "relevant_doc_ids": [
+      "23460562"
+    ]
+  },
+  {
+    "query_id": "q_575",
+    "relevant_doc_ids": [
+      "10300888"
+    ]
+  },
+  {
+    "query_id": "q_577",
+    "relevant_doc_ids": [
+      "5289038"
+    ]
+  },
+  {
+    "query_id": "q_578",
+    "relevant_doc_ids": [
+      "8764879"
+    ]
+  },
+  {
+    "query_id": "q_587",
+    "relevant_doc_ids": [
+      "16999023"
+    ]
+  },
+  {
+    "query_id": "q_589",
+    "relevant_doc_ids": [
+      "10984005"
+    ]
+  },
+  {
+    "query_id": "q_593",
+    "relevant_doc_ids": [
+      "19675911"
+    ]
+  },
+  {
+    "query_id": "q_597",
+    "relevant_doc_ids": [
+      "12779444",
+      "25742130",
+      "36355784"
+    ]
+  },
+  {
+    "query_id": "q_598",
+    "relevant_doc_ids": [
+      "25742130"
+    ]
+  },
+  {
+    "query_id": "q_613",
+    "relevant_doc_ids": [
+      "9638032"
+    ]
+  },
+  {
+    "query_id": "q_619",
+    "relevant_doc_ids": [
+      "20888849",
+      "2565138"
+    ]
+  },
+  {
+    "query_id": "q_623",
+    "relevant_doc_ids": [
+      "17000834"
+    ]
+  },
+  {
+    "query_id": "q_628",
+    "relevant_doc_ids": [
+      "24512064"
+    ]
+  },
+  {
+    "query_id": "q_636",
+    "relevant_doc_ids": [
+      "24294572"
+    ]
+  },
+  {
+    "query_id": "q_637",
+    "relevant_doc_ids": [
+      "25649714"
+    ]
+  },
+  {
+    "query_id": "q_641",
+    "relevant_doc_ids": [
+      "31554917",
+      "5912283"
+    ]
+  },
+  {
+    "query_id": "q_644",
+    "relevant_doc_ids": [
+      "13619127"
+    ]
+  },
+  {
+    "query_id": "q_649",
+    "relevant_doc_ids": [
+      "12789595"
+    ]
+  },
+  {
+    "query_id": "q_659",
+    "relevant_doc_ids": [
+      "1215116"
+    ]
+  },
+  {
+    "query_id": "q_660",
+    "relevant_doc_ids": [
+      "1215116"
+    ]
+  },
+  {
+    "query_id": "q_674",
+    "relevant_doc_ids": [
+      "2095573"
+    ]
+  },
+  {
+    "query_id": "q_684",
+    "relevant_doc_ids": [
+      "4942718"
+    ]
+  },
+  {
+    "query_id": "q_690",
+    "relevant_doc_ids": [
+      "18750453"
+    ]
+  },
+  {
+    "query_id": "q_691",
+    "relevant_doc_ids": [
+      "10991183"
+    ]
+  },
+  {
+    "query_id": "q_692",
+    "relevant_doc_ids": [
+      "24088502"
+    ]
+  },
+  {
+    "query_id": "q_693",
+    "relevant_doc_ids": [
+      "24088502"
+    ]
+  },
+  {
+    "query_id": "q_700",
+    "relevant_doc_ids": [
+      "4350400"
+    ]
+  },
+  {
+    "query_id": "q_702",
+    "relevant_doc_ids": [
+      "4350400"
+    ]
+  },
+  {
+    "query_id": "q_715",
+    "relevant_doc_ids": [
+      "18421962"
+    ]
+  },
+  {
+    "query_id": "q_716",
+    "relevant_doc_ids": [
+      "18421962"
+    ]
+  },
+  {
+    "query_id": "q_718",
+    "relevant_doc_ids": [
+      "17587795"
+    ]
+  },
+  {
+    "query_id": "q_721",
+    "relevant_doc_ids": [
+      "1834762"
+    ]
+  },
+  {
+    "query_id": "q_723",
+    "relevant_doc_ids": [
+      "5531479"
+    ]
+  },
+  {
+    "query_id": "q_727",
+    "relevant_doc_ids": [
+      "7521113"
+    ]
+  },
+  {
+    "query_id": "q_728",
+    "relevant_doc_ids": [
+      "36444198",
+      "7521113"
+    ]
+  },
+  {
+    "query_id": "q_729",
+    "relevant_doc_ids": [
+      "26851674"
+    ]
+  },
+  {
+    "query_id": "q_742",
+    "relevant_doc_ids": [
+      "32159283"
+    ]
+  },
+  {
+    "query_id": "q_743",
+    "relevant_doc_ids": [
+      "32159283"
+    ]
+  },
+  {
+    "query_id": "q_744",
+    "relevant_doc_ids": [
+      "8460275"
+    ]
+  },
+  {
+    "query_id": "q_756",
+    "relevant_doc_ids": [
+      "2831620"
+    ]
+  },
+  {
+    "query_id": "q_759",
+    "relevant_doc_ids": [
+      "1805641"
+    ]
+  },
+  {
+    "query_id": "q_768",
+    "relevant_doc_ids": [
+      "6421792"
+    ]
+  },
+  {
+    "query_id": "q_770",
+    "relevant_doc_ids": [
+      "15476777"
+    ]
+  },
+  {
+    "query_id": "q_775",
+    "relevant_doc_ids": [
+      "32275758"
+    ]
+  },
+  {
+    "query_id": "q_781",
+    "relevant_doc_ids": [
+      "24338780"
+    ]
+  },
+  {
+    "query_id": "q_783",
+    "relevant_doc_ids": [
+      "40632104"
+    ]
+  },
+  {
+    "query_id": "q_784",
+    "relevant_doc_ids": [
+      "2356950"
+    ]
+  },
+  {
+    "query_id": "q_785",
+    "relevant_doc_ids": [
+      "12471115"
+    ]
+  },
+  {
+    "query_id": "q_793",
+    "relevant_doc_ids": [
+      "8551160"
+    ]
+  },
+  {
+    "query_id": "q_800",
+    "relevant_doc_ids": [
+      "22543403"
+    ]
+  },
+  {
+    "query_id": "q_805",
+    "relevant_doc_ids": [
+      "22180793"
+    ]
+  },
+  {
+    "query_id": "q_808",
+    "relevant_doc_ids": [
+      "36606083"
+    ]
+  },
+  {
+    "query_id": "q_811",
+    "relevant_doc_ids": [
+      "19799455"
+    ]
+  },
+  {
+    "query_id": "q_814",
+    "relevant_doc_ids": [
+      "33387953"
+    ]
+  },
+  {
+    "query_id": "q_820",
+    "relevant_doc_ids": [
+      "8646760"
+    ]
+  },
+  {
+    "query_id": "q_821",
+    "relevant_doc_ids": [
+      "8646760"
+    ]
+  },
+  {
+    "query_id": "q_823",
+    "relevant_doc_ids": [
+      "15319019"
+    ]
+  },
+  {
+    "query_id": "q_830",
+    "relevant_doc_ids": [
+      "1897324"
+    ]
+  },
+  {
+    "query_id": "q_831",
+    "relevant_doc_ids": [
+      "1897324"
+    ]
+  },
+  {
+    "query_id": "q_832",
+    "relevant_doc_ids": [
+      "30303335"
+    ]
+  },
+  {
+    "query_id": "q_834",
+    "relevant_doc_ids": [
+      "5483793"
+    ]
+  },
+  {
+    "query_id": "q_837",
+    "relevant_doc_ids": [
+      "15928989"
+    ]
+  },
+  {
+    "query_id": "q_839",
+    "relevant_doc_ids": [
+      "1469751"
+    ]
+  },
+  {
+    "query_id": "q_845",
+    "relevant_doc_ids": [
+      "17741440"
+    ]
+  },
+  {
+    "query_id": "q_847",
+    "relevant_doc_ids": [
+      "16787954"
+    ]
+  },
+  {
+    "query_id": "q_852",
+    "relevant_doc_ids": [
+      "13843341"
+    ]
+  },
+  {
+    "query_id": "q_859",
+    "relevant_doc_ids": [
+      "1982286"
+    ]
+  },
+  {
+    "query_id": "q_870",
+    "relevant_doc_ids": [
+      "195689316"
+    ]
+  },
+  {
+    "query_id": "q_873",
+    "relevant_doc_ids": [
+      "1180972",
+      "19307912",
+      "27393799",
+      "29025270",
+      "3315558"
+    ]
+  },
+  {
+    "query_id": "q_879",
+    "relevant_doc_ids": [
+      "8426046"
+    ]
+  },
+  {
+    "query_id": "q_880",
+    "relevant_doc_ids": [
+      "8426046"
+    ]
+  },
+  {
+    "query_id": "q_882",
+    "relevant_doc_ids": [
+      "14803797"
+    ]
+  },
+  {
+    "query_id": "q_887",
+    "relevant_doc_ids": [
+      "18855191"
+    ]
+  },
+  {
+    "query_id": "q_903",
+    "relevant_doc_ids": [
+      "10648422"
+    ]
+  },
+  {
+    "query_id": "q_904",
+    "relevant_doc_ids": [
+      "7370282"
+    ]
+  },
+  {
+    "query_id": "q_907",
+    "relevant_doc_ids": [
+      "6923961"
+    ]
+  },
+  {
+    "query_id": "q_911",
+    "relevant_doc_ids": [
+      "11254556"
+    ]
+  },
+  {
+    "query_id": "q_913",
+    "relevant_doc_ids": [
+      "3203590"
+    ]
+  },
+  {
+    "query_id": "q_914",
+    "relevant_doc_ids": [
+      "3203590"
+    ]
+  },
+  {
+    "query_id": "q_921",
+    "relevant_doc_ids": [
+      "1642727"
+    ]
+  },
+  {
+    "query_id": "q_922",
+    "relevant_doc_ids": [
+      "17077004"
+    ]
+  },
+  {
+    "query_id": "q_936",
+    "relevant_doc_ids": [
+      "5483793"
+    ]
+  },
+  {
+    "query_id": "q_956",
+    "relevant_doc_ids": [
+      "12956194"
+    ]
+  },
+  {
+    "query_id": "q_957",
+    "relevant_doc_ids": [
+      "123859"
+    ]
+  },
+  {
+    "query_id": "q_960",
+    "relevant_doc_ids": [
+      "8780599"
+    ]
+  },
+  {
+    "query_id": "q_967",
+    "relevant_doc_ids": [
+      "2119889",
+      "8997410"
+    ]
+  },
+  {
+    "query_id": "q_971",
+    "relevant_doc_ids": [
+      "27873158",
+      "28617573",
+      "46695481",
+      "9764256"
+    ]
+  },
+  {
+    "query_id": "q_975",
+    "relevant_doc_ids": [
+      "5304891"
+    ]
+  },
+  {
+    "query_id": "q_982",
+    "relevant_doc_ids": [
+      "2988714"
+    ]
+  },
+  {
+    "query_id": "q_985",
+    "relevant_doc_ids": [
+      "6828370"
+    ]
+  },
+  {
+    "query_id": "q_993",
+    "relevant_doc_ids": [
+      "16472469"
+    ]
+  },
+  {
+    "query_id": "q_1012",
+    "relevant_doc_ids": [
+      "9745001"
+    ]
+  },
+  {
+    "query_id": "q_1014",
+    "relevant_doc_ids": [
+      "6277638"
+    ]
+  },
+  {
+    "query_id": "q_1019",
+    "relevant_doc_ids": [
+      "11603066"
+    ]
+  },
+  {
+    "query_id": "q_1020",
+    "relevant_doc_ids": [
+      "9433958"
+    ]
+  },
+  {
+    "query_id": "q_1021",
+    "relevant_doc_ids": [
+      "9433958"
+    ]
+  },
+  {
+    "query_id": "q_1024",
+    "relevant_doc_ids": [
+      "5373138"
+    ]
+  },
+  {
+    "query_id": "q_1029",
+    "relevant_doc_ids": [
+      "11899391",
+      "13923140",
+      "13940200"
+    ]
+  },
+  {
+    "query_id": "q_1041",
+    "relevant_doc_ids": [
+      "16626264",
+      "25254425"
+    ]
+  },
+  {
+    "query_id": "q_1049",
+    "relevant_doc_ids": [
+      "12486491"
+    ]
+  },
+  {
+    "query_id": "q_1062",
+    "relevant_doc_ids": [
+      "20381484"
+    ]
+  },
+  {
+    "query_id": "q_1086",
+    "relevant_doc_ids": [
+      "39281140"
+    ]
+  },
+  {
+    "query_id": "q_1088",
+    "relevant_doc_ids": [
+      "37549932"
+    ]
+  },
+  {
+    "query_id": "q_1089",
+    "relevant_doc_ids": [
+      "17628888"
+    ]
+  },
+  {
+    "query_id": "q_1099",
+    "relevant_doc_ids": [
+      "7662206"
+    ]
+  },
+  {
+    "query_id": "q_1100",
+    "relevant_doc_ids": [
+      "7662206"
+    ]
+  },
+  {
+    "query_id": "q_1104",
+    "relevant_doc_ids": [
+      "3898784"
+    ]
+  },
+  {
+    "query_id": "q_1107",
+    "relevant_doc_ids": [
+      "20532591"
+    ]
+  },
+  {
+    "query_id": "q_1110",
+    "relevant_doc_ids": [
+      "13770184"
+    ]
+  },
+  {
+    "query_id": "q_1121",
+    "relevant_doc_ids": [
+      "4456756"
+    ]
+  },
+  {
+    "query_id": "q_1130",
+    "relevant_doc_ids": [
+      "17997584"
+    ]
+  },
+  {
+    "query_id": "q_1132",
+    "relevant_doc_ids": [
+      "33499189",
+      "9283422"
+    ]
+  },
+  {
+    "query_id": "q_1137",
+    "relevant_doc_ids": [
+      "33370"
+    ]
+  },
+  {
+    "query_id": "q_1140",
+    "relevant_doc_ids": [
+      "12009265"
+    ]
+  },
+  {
+    "query_id": "q_1144",
+    "relevant_doc_ids": [
+      "10071552"
+    ]
+  },
+  {
+    "query_id": "q_1146",
+    "relevant_doc_ids": [
+      "13906581"
+    ]
+  },
+  {
+    "query_id": "q_1150",
+    "relevant_doc_ids": [
+      "11369420"
+    ]
+  },
+  {
+    "query_id": "q_1163",
+    "relevant_doc_ids": [
+      "15305881"
+    ]
+  },
+  {
+    "query_id": "q_1175",
+    "relevant_doc_ids": [
+      "31272411"
+    ]
+  },
+  {
+    "query_id": "q_1179",
+    "relevant_doc_ids": [
+      "31272411"
+    ]
+  },
+  {
+    "query_id": "q_1180",
+    "relevant_doc_ids": [
+      "31272411"
+    ]
+  },
+  {
+    "query_id": "q_1185",
+    "relevant_doc_ids": [
+      "16737210"
+    ]
+  },
+  {
+    "query_id": "q_1187",
+    "relevant_doc_ids": [
+      "52873726"
+    ]
+  },
+  {
+    "query_id": "q_1191",
+    "relevant_doc_ids": [
+      "30655442"
+    ]
+  },
+  {
+    "query_id": "q_1194",
+    "relevant_doc_ids": [
+      "11419230"
+    ]
+  },
+  {
+    "query_id": "q_1196",
+    "relevant_doc_ids": [
+      "25649714"
+    ]
+  },
+  {
+    "query_id": "q_1197",
+    "relevant_doc_ids": [
+      "25649714"
+    ]
+  },
+  {
+    "query_id": "q_1199",
+    "relevant_doc_ids": [
+      "16760369"
+    ]
+  },
+  {
+    "query_id": "q_1200",
+    "relevant_doc_ids": [
+      "3441524"
+    ]
+  },
+  {
+    "query_id": "q_1202",
+    "relevant_doc_ids": [
+      "3475317"
+    ]
+  },
+  {
+    "query_id": "q_1204",
+    "relevant_doc_ids": [
+      "31141365"
+    ]
+  },
+  {
+    "query_id": "q_1207",
+    "relevant_doc_ids": [
+      "18909530"
+    ]
+  },
+  {
+    "query_id": "q_1213",
+    "relevant_doc_ids": [
+      "14407673"
+    ]
+  },
+  {
+    "query_id": "q_1216",
+    "relevant_doc_ids": [
+      "24142891"
+    ]
+  },
+  {
+    "query_id": "q_1221",
+    "relevant_doc_ids": [
+      "19736671"
+    ]
+  },
+  {
+    "query_id": "q_1225",
+    "relevant_doc_ids": [
+      "9650982"
+    ]
+  },
+  {
+    "query_id": "q_1226",
+    "relevant_doc_ids": [
+      "13777138"
+    ]
+  },
+  {
+    "query_id": "q_1232",
+    "relevant_doc_ids": [
+      "13905670"
+    ]
+  },
+  {
+    "query_id": "q_1241",
+    "relevant_doc_ids": [
+      "4427392"
+    ]
+  },
+  {
+    "query_id": "q_1245",
+    "relevant_doc_ids": [
+      "7662395"
+    ]
+  },
+  {
+    "query_id": "q_1259",
+    "relevant_doc_ids": [
+      "24341590"
+    ]
+  },
+  {
+    "query_id": "q_1262",
+    "relevant_doc_ids": [
+      "44172171"
+    ]
+  },
+  {
+    "query_id": "q_1266",
+    "relevant_doc_ids": [
+      "37480103"
+    ]
+  },
+  {
+    "query_id": "q_1270",
+    "relevant_doc_ids": [
+      "13900610"
+    ]
+  },
+  {
+    "query_id": "q_1271",
+    "relevant_doc_ids": [
+      "13768432"
+    ]
+  },
+  {
+    "query_id": "q_1272",
+    "relevant_doc_ids": [
+      "17081238"
+    ]
+  },
+  {
+    "query_id": "q_1273",
+    "relevant_doc_ids": [
+      "11041152"
+    ]
+  },
+  {
+    "query_id": "q_1274",
+    "relevant_doc_ids": [
+      "12428814",
+      "27731651",
+      "4406819"
+    ]
+  },
+  {
+    "query_id": "q_1278",
+    "relevant_doc_ids": [
+      "11335781"
+    ]
+  },
+  {
+    "query_id": "q_1279",
+    "relevant_doc_ids": [
+      "11335781"
+    ]
+  },
+  {
+    "query_id": "q_1280",
+    "relevant_doc_ids": [
+      "4387784"
+    ]
+  },
+  {
+    "query_id": "q_1281",
+    "relevant_doc_ids": [
+      "4387784"
+    ]
+  },
+  {
+    "query_id": "q_1282",
+    "relevant_doc_ids": [
+      "23649163"
+    ]
+  },
+  {
+    "query_id": "q_1290",
+    "relevant_doc_ids": [
+      "4687948"
+    ]
+  },
+  {
+    "query_id": "q_1292",
+    "relevant_doc_ids": [
+      "56893404"
+    ]
+  },
+  {
+    "query_id": "q_1298",
+    "relevant_doc_ids": [
+      "11718220"
+    ]
+  },
+  {
+    "query_id": "q_1303",
+    "relevant_doc_ids": [
+      "12631697"
+    ]
+  },
+  {
+    "query_id": "q_1316",
+    "relevant_doc_ids": [
+      "27910499"
+    ]
+  },
+  {
+    "query_id": "q_1319",
+    "relevant_doc_ids": [
+      "16284655"
+    ]
+  },
+  {
+    "query_id": "q_1320",
+    "relevant_doc_ids": [
+      "16284655"
+    ]
+  },
+  {
+    "query_id": "q_1332",
+    "relevant_doc_ids": [
+      "5304891"
+    ]
+  },
+  {
+    "query_id": "q_1335",
+    "relevant_doc_ids": [
+      "27910499"
+    ]
+  },
+  {
+    "query_id": "q_1336",
+    "relevant_doc_ids": [
+      "27910499"
+    ]
+  },
+  {
+    "query_id": "q_1337",
+    "relevant_doc_ids": [
+      "20231138"
+    ]
+  },
+  {
+    "query_id": "q_1339",
+    "relevant_doc_ids": [
+      "15482274"
+    ]
+  },
+  {
+    "query_id": "q_1344",
+    "relevant_doc_ids": [
+      "9559146"
+    ]
+  },
+  {
+    "query_id": "q_1352",
+    "relevant_doc_ids": [
+      "12885341"
+    ]
+  },
+  {
+    "query_id": "q_1359",
+    "relevant_doc_ids": [
+      "11614737"
+    ]
+  },
+  {
+    "query_id": "q_1362",
+    "relevant_doc_ids": [
+      "8290953"
+    ]
+  },
+  {
+    "query_id": "q_1363",
+    "relevant_doc_ids": [
+      "8290953"
+    ]
+  },
+  {
+    "query_id": "q_1368",
+    "relevant_doc_ids": [
+      "2425364"
+    ]
+  },
+  {
+    "query_id": "q_1370",
+    "relevant_doc_ids": [
+      "2425364"
+    ]
+  },
+  {
+    "query_id": "q_1379",
+    "relevant_doc_ids": [
+      "16322674",
+      "17450673",
+      "23557241",
+      "27123743"
+    ]
+  },
+  {
+    "query_id": "q_1382",
+    "relevant_doc_ids": [
+      "17755060"
+    ]
+  },
+  {
+    "query_id": "q_1385",
+    "relevant_doc_ids": [
+      "306006"
+    ]
+  },
+  {
+    "query_id": "q_1389",
+    "relevant_doc_ids": [
+      "23895668"
+    ]
+  },
+  {
+    "query_id": "q_1395",
+    "relevant_doc_ids": [
+      "17717391"
+    ]
+  },
+  {
+    "query_id": "q_0",
+    "relevant_doc_ids": [
+      "31715818"
+    ]
+  },
+  {
+    "query_id": "q_2",
+    "relevant_doc_ids": [
+      "13734012"
+    ]
+  },
+  {
+    "query_id": "q_4",
+    "relevant_doc_ids": [
+      "22942787"
+    ]
+  },
+  {
+    "query_id": "q_6",
+    "relevant_doc_ids": [
+      "2613775"
+    ]
+  },
+  {
+    "query_id": "q_9",
+    "relevant_doc_ids": [
+      "44265107"
+    ]
+  },
+  {
+    "query_id": "q_10",
+    "relevant_doc_ids": [
+      "32587939"
+    ]
+  },
+  {
+    "query_id": "q_11",
+    "relevant_doc_ids": [
+      "32587939"
+    ]
+  },
+  {
+    "query_id": "q_12",
+    "relevant_doc_ids": [
+      "33409100"
+    ]
+  },
+  {
+    "query_id": "q_14",
+    "relevant_doc_ids": [
+      "641786"
+    ]
+  },
+  {
+    "query_id": "q_15",
+    "relevant_doc_ids": [
+      "22080671"
+    ]
+  },
+  {
+    "query_id": "q_17",
+    "relevant_doc_ids": [
+      "1606628"
+    ]
+  },
+  {
+    "query_id": "q_18",
+    "relevant_doc_ids": [
+      "22942787"
+    ]
+  },
+  {
+    "query_id": "q_19",
+    "relevant_doc_ids": [
+      "3202143"
+    ]
+  },
+  {
+    "query_id": "q_20",
+    "relevant_doc_ids": [
+      "3202143"
+    ]
+  },
+  {
+    "query_id": "q_21",
+    "relevant_doc_ids": [
+      "41493639"
+    ]
+  },
+  {
+    "query_id": "q_22",
+    "relevant_doc_ids": [
+      "6490571"
+    ]
+  },
+  {
+    "query_id": "q_24",
+    "relevant_doc_ids": [
+      "3471191"
+    ]
+  },
+  {
+    "query_id": "q_25",
+    "relevant_doc_ids": [
+      "2613775"
+    ]
+  },
+  {
+    "query_id": "q_26",
+    "relevant_doc_ids": [
+      "32390525"
+    ]
+  },
+  {
+    "query_id": "q_27",
+    "relevant_doc_ids": [
+      "32390525"
+    ]
+  },
+  {
+    "query_id": "q_28",
+    "relevant_doc_ids": [
+      "12670680"
+    ]
+  },
+  {
+    "query_id": "q_30",
+    "relevant_doc_ids": [
+      "24341590"
+    ]
+  },
+  {
+    "query_id": "q_32",
+    "relevant_doc_ids": [
+      "12428497"
+    ]
+  },
+  {
+    "query_id": "q_34",
+    "relevant_doc_ids": [
+      "11705328"
+    ]
+  },
+  {
+    "query_id": "q_35",
+    "relevant_doc_ids": [
+      "11705328",
+      "5152028"
+    ]
+  },
+  {
+    "query_id": "q_37",
+    "relevant_doc_ids": [
+      "11705328",
+      "5152028"
+    ]
+  },
+  {
+    "query_id": "q_39",
+    "relevant_doc_ids": [
+      "13497630"
+    ]
+  },
+  {
+    "query_id": "q_40",
+    "relevant_doc_ids": [
+      "13497630"
+    ]
+  },
+  {
+    "query_id": "q_41",
+    "relevant_doc_ids": [
+      "18174210"
+    ]
+  },
+  {
+    "query_id": "q_43",
+    "relevant_doc_ids": [
+      "7224723"
+    ]
+  },
+  {
+    "query_id": "q_44",
+    "relevant_doc_ids": [
+      "56893404"
+    ]
+  },
+  {
+    "query_id": "q_45",
+    "relevant_doc_ids": [
+      "56893404"
+    ]
+  },
+  {
+    "query_id": "q_46",
+    "relevant_doc_ids": [
+      "380526"
+    ]
+  },
+  {
+    "query_id": "q_47",
+    "relevant_doc_ids": [
+      "26996935",
+      "3512154"
+    ]
+  },
+  {
+    "query_id": "q_52",
+    "relevant_doc_ids": [
+      "45638119"
+    ]
+  },
+  {
+    "query_id": "q_55",
+    "relevant_doc_ids": [
+      "49556906"
+    ]
+  },
+  {
+    "query_id": "q_58",
+    "relevant_doc_ids": [
+      "4709641"
+    ]
+  },
+  {
+    "query_id": "q_60",
+    "relevant_doc_ids": [
+      "13899137",
+      "13901073"
+    ]
+  },
+  {
+    "query_id": "q_61",
+    "relevant_doc_ids": [
+      "13899137",
+      "13901073"
+    ]
+  },
+  {
+    "query_id": "q_62",
+    "relevant_doc_ids": [
+      "32587939"
+    ]
+  },
+  {
+    "query_id": "q_63",
+    "relevant_doc_ids": [
+      "40349336"
+    ]
+  },
+  {
+    "query_id": "q_64",
+    "relevant_doc_ids": [
+      "40349336"
+    ]
+  },
+  {
+    "query_id": "q_66",
+    "relevant_doc_ids": [
+      "14806256"
+    ]
+  },
+  {
+    "query_id": "q_67",
+    "relevant_doc_ids": [
+      "21295300"
+    ]
+  },
+  {
+    "query_id": "q_68",
+    "relevant_doc_ids": [
+      "21295300"
+    ]
+  },
+  {
+    "query_id": "q_69",
+    "relevant_doc_ids": [
+      "4414547",
+      "5956380"
+    ]
+  },
+  {
+    "query_id": "q_71",
+    "relevant_doc_ids": [
+      "1127562"
+    ]
+  },
+  {
+    "query_id": "q_73",
+    "relevant_doc_ids": [
+      "6076903"
+    ]
+  },
+  {
+    "query_id": "q_74",
+    "relevant_doc_ids": [
+      "4387784"
+    ]
+  },
+  {
+    "query_id": "q_76",
+    "relevant_doc_ids": [
+      "5531479"
+    ]
+  },
+  {
+    "query_id": "q_77",
+    "relevant_doc_ids": [
+      "5531479"
+    ]
+  },
+  {
+    "query_id": "q_78",
+    "relevant_doc_ids": [
+      "5099266"
+    ]
+  },
+  {
+    "query_id": "q_79",
+    "relevant_doc_ids": [
+      "5099266"
+    ]
+  },
+  {
+    "query_id": "q_80",
+    "relevant_doc_ids": [
+      "4920376"
+    ]
+  },
+  {
+    "query_id": "q_81",
+    "relevant_doc_ids": [
+      "1797622"
+    ]
+  },
+  {
+    "query_id": "q_82",
+    "relevant_doc_ids": [
+      "3619372"
+    ]
+  },
+  {
+    "query_id": "q_85",
+    "relevant_doc_ids": [
+      "22406695",
+      "7521113"
+    ]
+  },
+  {
+    "query_id": "q_86",
+    "relevant_doc_ids": [
+      "22406695",
+      "7521113"
+    ]
+  },
+  {
+    "query_id": "q_88",
+    "relevant_doc_ids": [
+      "22406695",
+      "7521113"
+    ]
+  },
+  {
+    "query_id": "q_89",
+    "relevant_doc_ids": [
+      "22406695",
+      "7521113"
+    ]
+  },
+  {
+    "query_id": "q_90",
+    "relevant_doc_ids": [
+      "22406695"
+    ]
+  },
+  {
+    "query_id": "q_91",
+    "relevant_doc_ids": [
+      "1084345"
+    ]
+  },
+  {
+    "query_id": "q_92",
+    "relevant_doc_ids": [
+      "1084345"
+    ]
+  },
+  {
+    "query_id": "q_93",
+    "relevant_doc_ids": [
+      "2692522"
+    ]
+  },
+  {
+    "query_id": "q_95",
+    "relevant_doc_ids": [
+      "1215116"
+    ]
+  },
+  {
+    "query_id": "q_96",
+    "relevant_doc_ids": [
+      "14500725"
+    ]
+  },
+  {
+    "query_id": "q_98",
+    "relevant_doc_ids": [
+      "6540064"
+    ]
+  },
+  {
+    "query_id": "q_104",
+    "relevant_doc_ids": [
+      "40164383"
+    ]
+  },
+  {
+    "query_id": "q_105",
+    "relevant_doc_ids": [
+      "36606083"
+    ]
+  },
+  {
+    "query_id": "q_106",
+    "relevant_doc_ids": [
+      "25515907",
+      "5151024"
+    ]
+  },
+  {
+    "query_id": "q_108",
+    "relevant_doc_ids": [
+      "22995579",
+      "23865182",
+      "6191684"
+    ]
+  },
+  {
+    "query_id": "q_109",
+    "relevant_doc_ids": [
+      "4319174"
+    ]
+  },
+  {
+    "query_id": "q_111",
+    "relevant_doc_ids": [
+      "13513790"
+    ]
+  },
+  {
+    "query_id": "q_112",
+    "relevant_doc_ids": [
+      "6157837"
+    ]
+  },
+  {
+    "query_id": "q_114",
+    "relevant_doc_ids": [
+      "33872649"
+    ]
+  },
+  {
+    "query_id": "q_116",
+    "relevant_doc_ids": [
+      "33872649"
+    ]
+  },
+  {
+    "query_id": "q_119",
+    "relevant_doc_ids": [
+      "14606752"
+    ]
+  },
+  {
+    "query_id": "q_120",
+    "relevant_doc_ids": [
+      "14606752"
+    ]
+  },
+  {
+    "query_id": "q_121",
+    "relevant_doc_ids": [
+      "31460499"
+    ]
+  },
+  {
+    "query_id": "q_122",
+    "relevant_doc_ids": [
+      "31460499"
+    ]
+  },
+  {
+    "query_id": "q_123",
+    "relevant_doc_ids": [
+      "4883040"
+    ]
+  },
+  {
+    "query_id": "q_126",
+    "relevant_doc_ids": [
+      "24512064"
+    ]
+  },
+  {
+    "query_id": "q_134",
+    "relevant_doc_ids": [
+      "4695046"
+    ]
+  },
+  {
+    "query_id": "q_138",
+    "relevant_doc_ids": [
+      "26016929"
+    ]
+  },
+  {
+    "query_id": "q_139",
+    "relevant_doc_ids": [
+      "22080671"
+    ]
+  },
+  {
+    "query_id": "q_144",
+    "relevant_doc_ids": [
+      "10582939"
+    ]
+  },
+  {
+    "query_id": "q_149",
+    "relevant_doc_ids": [
+      "6227220"
+    ]
+  },
+  {
+    "query_id": "q_152",
+    "relevant_doc_ids": [
+      "15488881"
+    ]
+  },
+  {
+    "query_id": "q_153",
+    "relevant_doc_ids": [
+      "4702639"
+    ]
+  },
+  {
+    "query_id": "q_154",
+    "relevant_doc_ids": [
+      "4702639"
+    ]
+  },
+  {
+    "query_id": "q_155",
+    "relevant_doc_ids": [
+      "37549932"
+    ]
+  },
+  {
+    "query_id": "q_156",
+    "relevant_doc_ids": [
+      "37549932"
+    ]
+  },
+  {
+    "query_id": "q_157",
+    "relevant_doc_ids": [
+      "13439128"
+    ]
+  },
+  {
+    "query_id": "q_159",
+    "relevant_doc_ids": [
+      "9394119"
+    ]
+  },
+  {
+    "query_id": "q_160",
+    "relevant_doc_ids": [
+      "52874170"
+    ]
+  },
+  {
+    "query_id": "q_161",
+    "relevant_doc_ids": [
+      "6903077"
+    ]
+  },
+  {
+    "query_id": "q_164",
+    "relevant_doc_ids": [
+      "5824985"
+    ]
+  },
+  {
+    "query_id": "q_165",
+    "relevant_doc_ids": [
+      "5824985"
+    ]
+  },
+  {
+    "query_id": "q_166",
+    "relevant_doc_ids": [
+      "18872233"
+    ]
+  },
+  {
+    "query_id": "q_167",
+    "relevant_doc_ids": [
+      "18872233"
+    ]
+  },
+  {
+    "query_id": "q_168",
+    "relevant_doc_ids": [
+      "5824985"
+    ]
+  },
+  {
+    "query_id": "q_169",
+    "relevant_doc_ids": [
+      "5824985"
+    ]
+  },
+  {
+    "query_id": "q_172",
+    "relevant_doc_ids": [
+      "12670680"
+    ]
+  },
+  {
+    "query_id": "q_173",
+    "relevant_doc_ids": [
+      "8126244"
+    ]
+  },
+  {
+    "query_id": "q_174",
+    "relevant_doc_ids": [
+      "1710116"
+    ]
+  },
+  {
+    "query_id": "q_175",
+    "relevant_doc_ids": [
+      "1710116"
+    ]
+  },
+  {
+    "query_id": "q_176",
+    "relevant_doc_ids": [
+      "32587939"
+    ]
+  },
+  {
+    "query_id": "q_177",
+    "relevant_doc_ids": [
+      "9669099"
+    ]
+  },
+  {
+    "query_id": "q_178",
+    "relevant_doc_ids": [
+      "16322674",
+      "17450673",
+      "23557241",
+      "27123743"
+    ]
+  },
+  {
+    "query_id": "q_181",
+    "relevant_doc_ids": [
+      "16966326"
+    ]
+  },
+  {
+    "query_id": "q_182",
+    "relevant_doc_ids": [
+      "11369420"
+    ]
+  },
+  {
+    "query_id": "q_184",
+    "relevant_doc_ids": [
+      "12827098"
+    ]
+  },
+  {
+    "query_id": "q_186",
+    "relevant_doc_ids": [
+      "16855829"
+    ]
+  },
+  {
+    "query_id": "q_187",
+    "relevant_doc_ids": [
+      "16855829"
+    ]
+  },
+  {
+    "query_id": "q_189",
+    "relevant_doc_ids": [
+      "4421578"
+    ]
+  },
+  {
+    "query_id": "q_196",
+    "relevant_doc_ids": [
+      "19313533"
+    ]
+  },
+  {
+    "query_id": "q_197",
+    "relevant_doc_ids": [
+      "2177022"
+    ]
+  },
+  {
+    "query_id": "q_199",
+    "relevant_doc_ids": [
+      "2177022"
+    ]
+  },
+  {
+    "query_id": "q_200",
+    "relevant_doc_ids": [
+      "18231807"
+    ]
+  },
+  {
+    "query_id": "q_201",
+    "relevant_doc_ids": [
+      "2462673"
+    ]
+  },
+  {
+    "query_id": "q_203",
+    "relevant_doc_ids": [
+      "9558539"
+    ]
+  },
+  {
+    "query_id": "q_204",
+    "relevant_doc_ids": [
+      "7898952"
+    ]
+  },
+  {
+    "query_id": "q_205",
+    "relevant_doc_ids": [
+      "470625",
+      "7898952"
+    ]
+  },
+  {
+    "query_id": "q_209",
+    "relevant_doc_ids": [
+      "32587939"
+    ]
+  },
+  {
+    "query_id": "q_210",
+    "relevant_doc_ids": [
+      "13794374"
+    ]
+  },
+  {
+    "query_id": "q_211",
+    "relevant_doc_ids": [
+      "13794374"
+    ]
+  },
+  {
+    "query_id": "q_214",
+    "relevant_doc_ids": [
+      "13625993"
+    ]
+  },
+  {
+    "query_id": "q_220",
+    "relevant_doc_ids": [
+      "19205437"
+    ]
+  },
+  {
+    "query_id": "q_221",
+    "relevant_doc_ids": [
+      "19205437"
+    ]
+  },
+  {
+    "query_id": "q_222",
+    "relevant_doc_ids": [
+      "19205437"
+    ]
+  },
+  {
+    "query_id": "q_223",
+    "relevant_doc_ids": [
+      "2014909"
+    ]
+  },
+  {
+    "query_id": "q_224",
+    "relevant_doc_ids": [
+      "6944800"
+    ]
+  },
+  {
+    "query_id": "q_225",
+    "relevant_doc_ids": [
+      "6944800"
+    ]
+  },
+  {
+    "query_id": "q_226",
+    "relevant_doc_ids": [
+      "6944800"
+    ]
+  },
+  {
+    "query_id": "q_227",
+    "relevant_doc_ids": [
+      "26973393"
+    ]
+  },
+  {
+    "query_id": "q_228",
+    "relevant_doc_ids": [
+      "4928057"
+    ]
+  },
+  {
+    "query_id": "q_229",
+    "relevant_doc_ids": [
+      "56893404"
+    ]
+  },
+  {
+    "query_id": "q_235",
+    "relevant_doc_ids": [
+      "4388470"
+    ]
+  },
+  {
+    "query_id": "q_241",
+    "relevant_doc_ids": [
+      "10608822",
+      "2212067"
+    ]
+  },
+  {
+    "query_id": "q_242",
+    "relevant_doc_ids": [
+      "10608822",
+      "2212067"
+    ]
+  },
+  {
+    "query_id": "q_243",
+    "relevant_doc_ids": [
+      "8148122"
+    ]
+  },
+  {
+    "query_id": "q_244",
+    "relevant_doc_ids": [
+      "21498497"
+    ]
+  },
+  {
+    "query_id": "q_245",
+    "relevant_doc_ids": [
+      "3430789",
+      "8447873"
+    ]
+  },
+  {
+    "query_id": "q_246",
+    "relevant_doc_ids": [
+      "3430789",
+      "8447873"
+    ]
+  },
+  {
+    "query_id": "q_247",
+    "relevant_doc_ids": [
+      "13578199"
+    ]
+  },
+  {
+    "query_id": "q_250",
+    "relevant_doc_ids": [
+      "1568684"
+    ]
+  },
+  {
+    "query_id": "q_251",
+    "relevant_doc_ids": [
+      "1568684"
+    ]
+  },
+  {
+    "query_id": "q_253",
+    "relevant_doc_ids": [
+      "37424881"
+    ]
+  },
+  {
+    "query_id": "q_254",
+    "relevant_doc_ids": [
+      "37424881"
+    ]
+  },
+  {
+    "query_id": "q_255",
+    "relevant_doc_ids": [
+      "5850219"
+    ]
+  },
+  {
+    "query_id": "q_256",
+    "relevant_doc_ids": [
+      "5850219"
+    ]
+  },
+  {
+    "query_id": "q_258",
+    "relevant_doc_ids": [
+      "22080671"
+    ]
+  },
+  {
+    "query_id": "q_259",
+    "relevant_doc_ids": [
+      "8883846"
+    ]
+  },
+  {
+    "query_id": "q_262",
+    "relevant_doc_ids": [
+      "14610165"
+    ]
+  },
+  {
+    "query_id": "q_263",
+    "relevant_doc_ids": [
+      "11328820",
+      "14853989",
+      "30041340"
+    ]
+  },
+  {
+    "query_id": "q_264",
+    "relevant_doc_ids": [
+      "11328820"
+    ]
+  },
+  {
+    "query_id": "q_265",
+    "relevant_doc_ids": [
+      "2033917"
+    ]
+  },
+  {
+    "query_id": "q_266",
+    "relevant_doc_ids": [
+      "22405338"
+    ]
+  },
+  {
+    "query_id": "q_267",
+    "relevant_doc_ids": [
+      "31554917",
+      "5912283"
+    ]
+  },
+  {
+    "query_id": "q_272",
+    "relevant_doc_ids": [
+      "11614737"
+    ]
+  },
+  {
+    "query_id": "q_277",
+    "relevant_doc_ids": [
+      "14376683"
+    ]
+  },
+  {
+    "query_id": "q_278",
+    "relevant_doc_ids": [
+      "14376683"
+    ]
+  },
+  {
+    "query_id": "q_280",
+    "relevant_doc_ids": [
+      "25001628"
+    ]
+  },
+  {
+    "query_id": "q_281",
+    "relevant_doc_ids": [
+      "4632921"
+    ]
+  },
+  {
+    "query_id": "q_283",
+    "relevant_doc_ids": [
+      "1974176"
+    ]
+  },
+  {
+    "query_id": "q_285",
+    "relevant_doc_ids": [
+      "5548081"
+    ]
+  },
+  {
+    "query_id": "q_286",
+    "relevant_doc_ids": [
+      "4709641"
+    ]
+  },
+  {
+    "query_id": "q_287",
+    "relevant_doc_ids": [
+      "4709641"
+    ]
+  },
+  {
+    "query_id": "q_290",
+    "relevant_doc_ids": [
+      "15048300"
+    ]
+  },
+  {
+    "query_id": "q_292",
+    "relevant_doc_ids": [
+      "15048300"
+    ]
+  },
+  {
+    "query_id": "q_293",
+    "relevant_doc_ids": [
+      "10874408"
+    ]
+  },
+  {
+    "query_id": "q_296",
+    "relevant_doc_ids": [
+      "4398832"
+    ]
+  },
+  {
+    "query_id": "q_299",
+    "relevant_doc_ids": [
+      "39381118"
+    ]
+  },
+  {
+    "query_id": "q_301",
+    "relevant_doc_ids": [
+      "3553087"
+    ]
+  },
+  {
+    "query_id": "q_304",
+    "relevant_doc_ids": [
+      "14797520"
+    ]
+  },
+  {
+    "query_id": "q_305",
+    "relevant_doc_ids": [
+      "14797520"
+    ]
+  },
+  {
+    "query_id": "q_306",
+    "relevant_doc_ids": [
+      "7821634"
+    ]
+  },
+  {
+    "query_id": "q_308",
+    "relevant_doc_ids": [
+      "7821634"
+    ]
+  },
+  {
+    "query_id": "q_309",
+    "relevant_doc_ids": [
+      "7821634"
+    ]
+  },
+  {
+    "query_id": "q_310",
+    "relevant_doc_ids": [
+      "6173523"
+    ]
+  },
+  {
+    "query_id": "q_313",
+    "relevant_doc_ids": [
+      "6173523"
+    ]
+  },
+  {
+    "query_id": "q_315",
+    "relevant_doc_ids": [
+      "3701541"
+    ]
+  },
+  {
+    "query_id": "q_316",
+    "relevant_doc_ids": [
+      "712078"
+    ]
+  },
+  {
+    "query_id": "q_317",
+    "relevant_doc_ids": [
+      "4506414"
+    ]
+  },
+  {
+    "query_id": "q_323",
+    "relevant_doc_ids": [
+      "2014909"
+    ]
+  },
+  {
+    "query_id": "q_325",
+    "relevant_doc_ids": [
+      "40349336"
+    ]
+  },
+  {
+    "query_id": "q_326",
+    "relevant_doc_ids": [
+      "40349336"
+    ]
+  },
+  {
+    "query_id": "q_330",
+    "relevant_doc_ids": [
+      "9505448"
+    ]
+  },
+  {
+    "query_id": "q_331",
+    "relevant_doc_ids": [
+      "9505448"
+    ]
+  },
+  {
+    "query_id": "q_332",
+    "relevant_doc_ids": [
+      "29023309"
+    ]
+  },
+  {
+    "query_id": "q_333",
+    "relevant_doc_ids": [
+      "29023309"
+    ]
+  },
+  {
+    "query_id": "q_334",
+    "relevant_doc_ids": [
+      "25079962"
+    ]
+  },
+  {
+    "query_id": "q_335",
+    "relevant_doc_ids": [
+      "1780819"
+    ]
+  },
+  {
+    "query_id": "q_336",
+    "relevant_doc_ids": [
+      "2097256"
+    ]
+  },
+  {
+    "query_id": "q_337",
+    "relevant_doc_ids": [
+      "2097256"
+    ]
+  },
+  {
+    "query_id": "q_339",
+    "relevant_doc_ids": [
+      "23349986"
+    ]
+  },
+  {
+    "query_id": "q_340",
+    "relevant_doc_ids": [
+      "7098463"
+    ]
+  },
+  {
+    "query_id": "q_341",
+    "relevant_doc_ids": [
+      "7098463"
+    ]
+  },
+  {
+    "query_id": "q_342",
+    "relevant_doc_ids": [
+      "5884524",
+      "7873737"
+    ]
+  },
+  {
+    "query_id": "q_345",
+    "relevant_doc_ids": [
+      "4394817"
+    ]
+  },
+  {
+    "query_id": "q_346",
+    "relevant_doc_ids": [
+      "11902109"
+    ]
+  },
+  {
+    "query_id": "q_347",
+    "relevant_doc_ids": [
+      "11902109"
+    ]
+  },
+  {
+    "query_id": "q_349",
+    "relevant_doc_ids": [
+      "13497630"
+    ]
+  },
+  {
+    "query_id": "q_351",
+    "relevant_doc_ids": [
+      "14658685"
+    ]
+  },
+  {
+    "query_id": "q_352",
+    "relevant_doc_ids": [
+      "14658685"
+    ]
+  },
+  {
+    "query_id": "q_355",
+    "relevant_doc_ids": [
+      "12800122",
+      "38380061"
+    ]
+  },
+  {
+    "query_id": "q_356",
+    "relevant_doc_ids": [
+      "6144337"
+    ]
+  },
+  {
+    "query_id": "q_357",
+    "relevant_doc_ids": [
+      "18111172"
+    ]
+  },
+  {
+    "query_id": "q_358",
+    "relevant_doc_ids": [
+      "18111172"
+    ]
+  },
+  {
+    "query_id": "q_361",
+    "relevant_doc_ids": [
+      "38587347"
+    ]
+  },
+  {
+    "query_id": "q_363",
+    "relevant_doc_ids": [
+      "5386514"
+    ]
+  },
+  {
+    "query_id": "q_364",
+    "relevant_doc_ids": [
+      "1550937"
+    ]
+  },
+  {
+    "query_id": "q_365",
+    "relevant_doc_ids": [
+      "600437"
+    ]
+  },
+  {
+    "query_id": "q_366",
+    "relevant_doc_ids": [
+      "13956305"
+    ]
+  },
+  {
+    "query_id": "q_367",
+    "relevant_doc_ids": [
+      "27099731"
+    ]
+  },
+  {
+    "query_id": "q_368",
+    "relevant_doc_ids": [
+      "27099731"
+    ]
+  },
+  {
+    "query_id": "q_369",
+    "relevant_doc_ids": [
+      "6826100"
+    ]
+  },
+  {
+    "query_id": "q_370",
+    "relevant_doc_ids": [
+      "1550937"
+    ]
+  },
+  {
+    "query_id": "q_371",
+    "relevant_doc_ids": [
+      "1550937"
+    ]
+  },
+  {
+    "query_id": "q_372",
+    "relevant_doc_ids": [
+      "24922825"
+    ]
+  },
+  {
+    "query_id": "q_375",
+    "relevant_doc_ids": [
+      "1522647"
+    ]
+  },
+  {
+    "query_id": "q_376",
+    "relevant_doc_ids": [
+      "22401061"
+    ]
+  },
+  {
+    "query_id": "q_377",
+    "relevant_doc_ids": [
+      "18810195"
+    ]
+  },
+  {
+    "query_id": "q_378",
+    "relevant_doc_ids": [
+      "10534299",
+      "11886686",
+      "17150648",
+      "25007443",
+      "45154987"
+    ]
+  },
+  {
+    "query_id": "q_379",
+    "relevant_doc_ids": [
+      "19005293"
+    ]
+  },
+  {
+    "query_id": "q_381",
+    "relevant_doc_ids": [
+      "18340282"
+    ]
+  },
+  {
+    "query_id": "q_382",
+    "relevant_doc_ids": [
+      "11659421"
+    ]
+  },
+  {
+    "query_id": "q_383",
+    "relevant_doc_ids": [
+      "13770184"
+    ]
+  },
+  {
+    "query_id": "q_389",
+    "relevant_doc_ids": [
+      "1148122"
+    ]
+  },
+  {
+    "query_id": "q_390",
+    "relevant_doc_ids": [
+      "1148122"
+    ]
+  },
+  {
+    "query_id": "q_391",
+    "relevant_doc_ids": [
+      "1148122"
+    ]
+  },
+  {
+    "query_id": "q_392",
+    "relevant_doc_ids": [
+      "1148122"
+    ]
+  },
+  {
+    "query_id": "q_393",
+    "relevant_doc_ids": [
+      "1148122"
+    ]
+  },
+  {
+    "query_id": "q_394",
+    "relevant_doc_ids": [
+      "11360768"
+    ]
+  },
+  {
+    "query_id": "q_396",
+    "relevant_doc_ids": [
+      "1456068"
+    ]
+  },
+  {
+    "query_id": "q_397",
+    "relevant_doc_ids": [
+      "1456068"
+    ]
+  },
+  {
+    "query_id": "q_398",
+    "relevant_doc_ids": [
+      "8883846"
+    ]
+  },
+  {
+    "query_id": "q_400",
+    "relevant_doc_ids": [
+      "791050"
+    ]
+  },
+  {
+    "query_id": "q_401",
+    "relevant_doc_ids": [
+      "5633876"
+    ]
+  },
+  {
+    "query_id": "q_403",
+    "relevant_doc_ids": [
+      "1921218"
+    ]
+  },
+  {
+    "query_id": "q_404",
+    "relevant_doc_ids": [
+      "1921218"
+    ]
+  },
+  {
+    "query_id": "q_406",
+    "relevant_doc_ids": [
+      "6796297"
+    ]
+  },
+  {
+    "query_id": "q_407",
+    "relevant_doc_ids": [
+      "9889151"
+    ]
+  },
+  {
+    "query_id": "q_413",
+    "relevant_doc_ids": [
+      "6309659"
+    ]
+  },
+  {
+    "query_id": "q_414",
+    "relevant_doc_ids": [
+      "6309659"
+    ]
+  },
+  {
+    "query_id": "q_416",
+    "relevant_doc_ids": [
+      "6309659"
+    ]
+  },
+  {
+    "query_id": "q_417",
+    "relevant_doc_ids": [
+      "6309659"
+    ]
+  },
+  {
+    "query_id": "q_418",
+    "relevant_doc_ids": [
+      "16660256"
+    ]
+  },
+  {
+    "query_id": "q_420",
+    "relevant_doc_ids": [
+      "9315213"
+    ]
+  },
+  {
+    "query_id": "q_422",
+    "relevant_doc_ids": [
+      "11172205"
+    ]
+  },
+  {
+    "query_id": "q_423",
+    "relevant_doc_ids": [
+      "8595678"
+    ]
+  },
+  {
+    "query_id": "q_425",
+    "relevant_doc_ids": [
+      "33257464"
+    ]
+  },
+  {
+    "query_id": "q_426",
+    "relevant_doc_ids": [
+      "16728949"
+    ]
+  },
+  {
+    "query_id": "q_428",
+    "relevant_doc_ids": [
+      "16728949"
+    ]
+  },
+  {
+    "query_id": "q_429",
+    "relevant_doc_ids": [
+      "36540079"
+    ]
+  },
+  {
+    "query_id": "q_430",
+    "relevant_doc_ids": [
+      "28937856"
+    ]
+  },
+  {
+    "query_id": "q_432",
+    "relevant_doc_ids": [
+      "8002887"
+    ]
+  },
+  {
+    "query_id": "q_434",
+    "relevant_doc_ids": [
+      "9500590"
+    ]
+  },
+  {
+    "query_id": "q_435",
+    "relevant_doc_ids": [
+      "9500590"
+    ]
+  },
+  {
+    "query_id": "q_441",
+    "relevant_doc_ids": [
+      "2014909"
+    ]
+  },
+  {
+    "query_id": "q_444",
+    "relevant_doc_ids": [
+      "10165258"
+    ]
+  },
+  {
+    "query_id": "q_445",
+    "relevant_doc_ids": [
+      "10165258"
+    ]
+  },
+  {
+    "query_id": "q_447",
+    "relevant_doc_ids": [
+      "2052720"
+    ]
+  },
+  {
+    "query_id": "q_448",
+    "relevant_doc_ids": [
+      "2052720"
+    ]
+  },
+  {
+    "query_id": "q_449",
+    "relevant_doc_ids": [
+      "12209494",
+      "3430789"
+    ]
+  },
+  {
+    "query_id": "q_453",
+    "relevant_doc_ids": [
+      "4200695"
+    ]
+  },
+  {
+    "query_id": "q_454",
+    "relevant_doc_ids": [
+      "4200695"
+    ]
+  },
+  {
+    "query_id": "q_455",
+    "relevant_doc_ids": [
+      "12643937"
+    ]
+  },
+  {
+    "query_id": "q_456",
+    "relevant_doc_ids": [
+      "30507607"
+    ]
+  },
+  {
+    "query_id": "q_458",
+    "relevant_doc_ids": [
+      "597790"
+    ]
+  },
+  {
+    "query_id": "q_461",
+    "relevant_doc_ids": [
+      "40096222"
+    ]
+  },
+  {
+    "query_id": "q_463",
+    "relevant_doc_ids": [
+      "19736671"
+    ]
+  },
+  {
+    "query_id": "q_466",
+    "relevant_doc_ids": [
+      "22544171"
+    ]
+  },
+  {
+    "query_id": "q_469",
+    "relevant_doc_ids": [
+      "1410197"
+    ]
+  },
+  {
+    "query_id": "q_470",
+    "relevant_doc_ids": [
+      "12685434"
+    ]
+  },
+  {
+    "query_id": "q_472",
+    "relevant_doc_ids": [
+      "26330861",
+      "4414481",
+      "7185591"
+    ]
+  },
+  {
+    "query_id": "q_473",
+    "relevant_doc_ids": [
+      "4373433"
+    ]
+  },
+  {
+    "query_id": "q_474",
+    "relevant_doc_ids": [
+      "4373433"
+    ]
+  },
+  {
+    "query_id": "q_479",
+    "relevant_doc_ids": [
+      "6325527"
+    ]
+  },
+  {
+    "query_id": "q_480",
+    "relevant_doc_ids": [
+      "6325527"
+    ]
+  },
+  {
+    "query_id": "q_481",
+    "relevant_doc_ids": [
+      "14706752"
+    ]
+  },
+  {
+    "query_id": "q_482",
+    "relevant_doc_ids": [
+      "10991183"
+    ]
+  },
+  {
+    "query_id": "q_483",
+    "relevant_doc_ids": [
+      "22703082"
+    ]
+  },
+  {
+    "query_id": "q_484",
+    "relevant_doc_ids": [
+      "14637235"
+    ]
+  },
+  {
+    "query_id": "q_485",
+    "relevant_doc_ids": [
+      "14637235"
+    ]
+  },
+  {
+    "query_id": "q_486",
+    "relevant_doc_ids": [
+      "14637235"
+    ]
+  },
+  {
+    "query_id": "q_487",
+    "relevant_doc_ids": [
+      "14637235"
+    ]
+  },
+  {
+    "query_id": "q_488",
+    "relevant_doc_ids": [
+      "1780819"
+    ]
+  },
+  {
+    "query_id": "q_489",
+    "relevant_doc_ids": [
+      "6625693"
+    ]
+  },
+  {
+    "query_id": "q_490",
+    "relevant_doc_ids": [
+      "56893404"
+    ]
+  },
+  {
+    "query_id": "q_492",
+    "relevant_doc_ids": [
+      "19583924"
+    ]
+  },
+  {
+    "query_id": "q_493",
+    "relevant_doc_ids": [
+      "19583924"
+    ]
+  },
+  {
+    "query_id": "q_494",
+    "relevant_doc_ids": [
+      "34873974"
+    ]
+  },
+  {
+    "query_id": "q_495",
+    "relevant_doc_ids": [
+      "17077004"
+    ]
+  },
+  {
+    "query_id": "q_498",
+    "relevant_doc_ids": [
+      "17077004"
+    ]
+  },
+  {
+    "query_id": "q_499",
+    "relevant_doc_ids": [
+      "26064662"
+    ]
+  },
+  {
+    "query_id": "q_500",
+    "relevant_doc_ids": [
+      "17930286"
+    ]
+  },
+  {
+    "query_id": "q_504",
+    "relevant_doc_ids": [
+      "10883736"
+    ]
+  },
+  {
+    "query_id": "q_505",
+    "relevant_doc_ids": [
+      "22703082"
+    ]
+  },
+  {
+    "query_id": "q_506",
+    "relevant_doc_ids": [
+      "7433668"
+    ]
+  },
+  {
+    "query_id": "q_509",
+    "relevant_doc_ids": [
+      "13980338"
+    ]
+  },
+  {
+    "query_id": "q_515",
+    "relevant_doc_ids": [
+      "29564505"
+    ]
+  },
+  {
+    "query_id": "q_523",
+    "relevant_doc_ids": [
+      "14803797"
+    ]
+  },
+  {
+    "query_id": "q_524",
+    "relevant_doc_ids": [
+      "14803797"
+    ]
+  },
+  {
+    "query_id": "q_526",
+    "relevant_doc_ids": [
+      "3863543"
+    ]
+  },
+  {
+    "query_id": "q_529",
+    "relevant_doc_ids": [
+      "10546779",
+      "25413327",
+      "36651210"
+    ]
+  },
+  {
+    "query_id": "q_530",
+    "relevant_doc_ids": [
+      "10546779",
+      "25413327",
+      "36651210",
+      "87610599"
+    ]
+  },
+  {
+    "query_id": "q_531",
+    "relevant_doc_ids": [
+      "10546779",
+      "25413327",
+      "36651210"
+    ]
+  },
+  {
+    "query_id": "q_537",
+    "relevant_doc_ids": [
+      "16056514"
+    ]
+  },
+  {
+    "query_id": "q_541",
+    "relevant_doc_ids": [
+      "11886686",
+      "25007443",
+      "45154987"
+    ]
+  },
+  {
+    "query_id": "q_542",
+    "relevant_doc_ids": [
+      "19688024"
+    ]
+  },
+  {
+    "query_id": "q_545",
+    "relevant_doc_ids": [
+      "24221369"
+    ]
+  },
+  {
+    "query_id": "q_547",
+    "relevant_doc_ids": [
+      "10648422"
+    ]
+  },
+  {
+    "query_id": "q_548",
+    "relevant_doc_ids": [
+      "18199839"
+    ]
+  },
+  {
+    "query_id": "q_550",
+    "relevant_doc_ids": [
+      "33499189"
+    ]
+  },
+  {
+    "query_id": "q_553",
+    "relevant_doc_ids": [
+      "1471041"
+    ]
+  },
+  {
+    "query_id": "q_555",
+    "relevant_doc_ids": [
+      "1049501"
+    ]
+  },
+  {
+    "query_id": "q_557",
+    "relevant_doc_ids": [
+      "1049501"
+    ]
+  },
+  {
+    "query_id": "q_559",
+    "relevant_doc_ids": [
+      "3475317"
+    ]
+  },
+  {
+    "query_id": "q_562",
+    "relevant_doc_ids": [
+      "20101846"
+    ]
+  },
+  {
+    "query_id": "q_563",
+    "relevant_doc_ids": [
+      "2867345"
+    ]
+  },
+  {
+    "query_id": "q_564",
+    "relevant_doc_ids": [
+      "2867345"
+    ]
+  },
+  {
+    "query_id": "q_565",
+    "relevant_doc_ids": [
+      "16120395"
+    ]
+  },
+  {
+    "query_id": "q_566",
+    "relevant_doc_ids": [
+      "16120395"
+    ]
+  },
+  {
+    "query_id": "q_568",
+    "relevant_doc_ids": [
+      "23418635"
+    ]
+  },
+  {
+    "query_id": "q_570",
+    "relevant_doc_ids": [
+      "20333864"
+    ]
+  },
+  {
+    "query_id": "q_571",
+    "relevant_doc_ids": [
+      "20333864"
+    ]
+  },
+  {
+    "query_id": "q_572",
+    "relevant_doc_ids": [
+      "4447055"
+    ]
+  },
+  {
+    "query_id": "q_573",
+    "relevant_doc_ids": [
+      "10300888"
+    ]
+  },
+  {
+    "query_id": "q_574",
+    "relevant_doc_ids": [
+      "10300888"
+    ]
+  },
+  {
+    "query_id": "q_576",
+    "relevant_doc_ids": [
+      "4468861"
+    ]
+  },
+  {
+    "query_id": "q_579",
+    "relevant_doc_ids": [
+      "34139429"
+    ]
+  },
+  {
+    "query_id": "q_580",
+    "relevant_doc_ids": [
+      "23460562"
+    ]
+  },
+  {
+    "query_id": "q_582",
+    "relevant_doc_ids": [
+      "14260013"
+    ]
+  },
+  {
+    "query_id": "q_584",
+    "relevant_doc_ids": [
+      "14260013"
+    ]
+  },
+  {
+    "query_id": "q_585",
+    "relevant_doc_ids": [
+      "42291761"
+    ]
+  },
+  {
+    "query_id": "q_588",
+    "relevant_doc_ids": [
+      "16999023"
+    ]
+  },
+  {
+    "query_id": "q_590",
+    "relevant_doc_ids": [
+      "10984005"
+    ]
+  },
+  {
+    "query_id": "q_591",
+    "relevant_doc_ids": [
+      "14682243"
+    ]
+  },
+  {
+    "query_id": "q_592",
+    "relevant_doc_ids": [
+      "14682243"
+    ]
+  },
+  {
+    "query_id": "q_594",
+    "relevant_doc_ids": [
+      "19675911"
+    ]
+  },
+  {
+    "query_id": "q_595",
+    "relevant_doc_ids": [
+      "4824840"
+    ]
+  },
+  {
+    "query_id": "q_600",
+    "relevant_doc_ids": [
+      "12258338"
+    ]
+  },
+  {
+    "query_id": "q_601",
+    "relevant_doc_ids": [
+      "12258338"
+    ]
+  },
+  {
+    "query_id": "q_602",
+    "relevant_doc_ids": [
+      "3701541"
+    ]
+  },
+  {
+    "query_id": "q_603",
+    "relevant_doc_ids": [
+      "6540064"
+    ]
+  },
+  {
+    "query_id": "q_606",
+    "relevant_doc_ids": [
+      "712078"
+    ]
+  },
+  {
+    "query_id": "q_607",
+    "relevant_doc_ids": [
+      "4506414"
+    ]
+  },
+  {
+    "query_id": "q_609",
+    "relevant_doc_ids": [
+      "40096222"
+    ]
+  },
+  {
+    "query_id": "q_610",
+    "relevant_doc_ids": [
+      "40096222"
+    ]
+  },
+  {
+    "query_id": "q_611",
+    "relevant_doc_ids": [
+      "32408470"
+    ]
+  },
+  {
+    "query_id": "q_612",
+    "relevant_doc_ids": [
+      "9638032"
+    ]
+  },
+  {
+    "query_id": "q_614",
+    "relevant_doc_ids": [
+      "9638032"
+    ]
+  },
+  {
+    "query_id": "q_615",
+    "relevant_doc_ids": [
+      "9638032"
+    ]
+  },
+  {
+    "query_id": "q_616",
+    "relevant_doc_ids": [
+      "18670"
+    ]
+  },
+  {
+    "query_id": "q_617",
+    "relevant_doc_ids": [
+      "18670"
+    ]
+  },
+  {
+    "query_id": "q_618",
+    "relevant_doc_ids": [
+      "6836086"
+    ]
+  },
+  {
+    "query_id": "q_620",
+    "relevant_doc_ids": [
+      "2565138"
+    ]
+  },
+  {
+    "query_id": "q_621",
+    "relevant_doc_ids": [
+      "1642727"
+    ]
+  },
+  {
+    "query_id": "q_622",
+    "relevant_doc_ids": [
+      "17000834"
+    ]
+  },
+  {
+    "query_id": "q_624",
+    "relevant_doc_ids": [
+      "20033112"
+    ]
+  },
+  {
+    "query_id": "q_625",
+    "relevant_doc_ids": [
+      "20033112"
+    ]
+  },
+  {
+    "query_id": "q_626",
+    "relevant_doc_ids": [
+      "16355392"
+    ]
+  },
+  {
+    "query_id": "q_631",
+    "relevant_doc_ids": [
+      "5468807"
+    ]
+  },
+  {
+    "query_id": "q_632",
+    "relevant_doc_ids": [
+      "5172048"
+    ]
+  },
+  {
+    "query_id": "q_633",
+    "relevant_doc_ids": [
+      "5172048"
+    ]
+  },
+  {
+    "query_id": "q_635",
+    "relevant_doc_ids": [
+      "1686997"
+    ]
+  },
+  {
+    "query_id": "q_638",
+    "relevant_doc_ids": [
+      "25649714"
+    ]
+  },
+  {
+    "query_id": "q_640",
+    "relevant_doc_ids": [
+      "6503185"
+    ]
+  },
+  {
+    "query_id": "q_642",
+    "relevant_doc_ids": [
+      "13619127"
+    ]
+  },
+  {
+    "query_id": "q_643",
+    "relevant_doc_ids": [
+      "15535511"
+    ]
+  },
+  {
+    "query_id": "q_645",
+    "relevant_doc_ids": [
+      "12810152"
+    ]
+  },
+  {
+    "query_id": "q_646",
+    "relevant_doc_ids": [
+      "12810152"
+    ]
+  },
+  {
+    "query_id": "q_647",
+    "relevant_doc_ids": [
+      "15041758"
+    ]
+  },
+  {
+    "query_id": "q_648",
+    "relevant_doc_ids": [
+      "15041758"
+    ]
+  },
+  {
+    "query_id": "q_650",
+    "relevant_doc_ids": [
+      "12789595"
+    ]
+  },
+  {
+    "query_id": "q_651",
+    "relevant_doc_ids": [
+      "9433958"
+    ]
+  },
+  {
+    "query_id": "q_652",
+    "relevant_doc_ids": [
+      "9433958"
+    ]
+  },
+  {
+    "query_id": "q_653",
+    "relevant_doc_ids": [
+      "24384587"
+    ]
+  },
+  {
+    "query_id": "q_654",
+    "relevant_doc_ids": [
+      "57574395"
+    ]
+  },
+  {
+    "query_id": "q_655",
+    "relevant_doc_ids": [
+      "57574395"
+    ]
+  },
+  {
+    "query_id": "q_657",
+    "relevant_doc_ids": [
+      "8533245"
+    ]
+  },
+  {
+    "query_id": "q_658",
+    "relevant_doc_ids": [
+      "5293024"
+    ]
+  },
+  {
+    "query_id": "q_661",
+    "relevant_doc_ids": [
+      "37204802"
+    ]
+  },
+  {
+    "query_id": "q_662",
+    "relevant_doc_ids": [
+      "37204802"
+    ]
+  },
+  {
+    "query_id": "q_663",
+    "relevant_doc_ids": [
+      "22080671"
+    ]
+  },
+  {
+    "query_id": "q_665",
+    "relevant_doc_ids": [
+      "12580014"
+    ]
+  },
+  {
+    "query_id": "q_666",
+    "relevant_doc_ids": [
+      "4469125"
+    ]
+  },
+  {
+    "query_id": "q_667",
+    "relevant_doc_ids": [
+      "6493422"
+    ]
+  },
+  {
+    "query_id": "q_668",
+    "relevant_doc_ids": [
+      "25148216",
+      "6493422"
+    ]
+  },
+  {
+    "query_id": "q_669",
+    "relevant_doc_ids": [
+      "25148216",
+      "6493422"
+    ]
+  },
+  {
+    "query_id": "q_670",
+    "relevant_doc_ids": [
+      "5573975"
+    ]
+  },
+  {
+    "query_id": "q_671",
+    "relevant_doc_ids": [
+      "5573975"
+    ]
+  },
+  {
+    "query_id": "q_672",
+    "relevant_doc_ids": [
+      "15635366"
+    ]
+  },
+  {
+    "query_id": "q_673",
+    "relevant_doc_ids": [
+      "2095573"
+    ]
+  },
+  {
+    "query_id": "q_676",
+    "relevant_doc_ids": [
+      "857189"
+    ]
+  },
+  {
+    "query_id": "q_677",
+    "relevant_doc_ids": [
+      "857189"
+    ]
+  },
+  {
+    "query_id": "q_679",
+    "relevant_doc_ids": [
+      "13639330"
+    ]
+  },
+  {
+    "query_id": "q_680",
+    "relevant_doc_ids": [
+      "9315213"
+    ]
+  },
+  {
+    "query_id": "q_681",
+    "relevant_doc_ids": [
+      "9315213"
+    ]
+  },
+  {
+    "query_id": "q_682",
+    "relevant_doc_ids": [
+      "9315213"
+    ]
+  },
+  {
+    "query_id": "q_683",
+    "relevant_doc_ids": [
+      "9315213"
+    ]
+  },
+  {
+    "query_id": "q_685",
+    "relevant_doc_ids": [
+      "4452659"
+    ]
+  },
+  {
+    "query_id": "q_686",
+    "relevant_doc_ids": [
+      "4452659"
+    ]
+  },
+  {
+    "query_id": "q_687",
+    "relevant_doc_ids": [
+      "4452659"
+    ]
+  },
+  {
+    "query_id": "q_688",
+    "relevant_doc_ids": [
+      "4452659"
+    ]
+  },
+  {
+    "query_id": "q_689",
+    "relevant_doc_ids": [
+      "22080671"
+    ]
+  },
+  {
+    "query_id": "q_694",
+    "relevant_doc_ids": [
+      "1071991"
+    ]
+  },
+  {
+    "query_id": "q_696",
+    "relevant_doc_ids": [
+      "16355392"
+    ]
+  },
+  {
+    "query_id": "q_698",
+    "relevant_doc_ids": [
+      "22544171"
+    ]
+  },
+  {
+    "query_id": "q_703",
+    "relevant_doc_ids": [
+      "4350400"
+    ]
+  },
+  {
+    "query_id": "q_704",
+    "relevant_doc_ids": [
+      "14658685"
+    ]
+  },
+  {
+    "query_id": "q_705",
+    "relevant_doc_ids": [
+      "22442133"
+    ]
+  },
+  {
+    "query_id": "q_709",
+    "relevant_doc_ids": [
+      "22442133"
+    ]
+  },
+  {
+    "query_id": "q_710",
+    "relevant_doc_ids": [
+      "22442133"
+    ]
+  },
+  {
+    "query_id": "q_713",
+    "relevant_doc_ids": [
+      "18421962"
+    ]
+  },
+  {
+    "query_id": "q_714",
+    "relevant_doc_ids": [
+      "18421962"
+    ]
+  },
+  {
+    "query_id": "q_717",
+    "relevant_doc_ids": [
+      "17587795"
+    ]
+  },
+  {
+    "query_id": "q_724",
+    "relevant_doc_ids": [
+      "5531479"
+    ]
+  },
+  {
+    "query_id": "q_726",
+    "relevant_doc_ids": [
+      "36444198",
+      "7521113"
+    ]
+  },
+  {
+    "query_id": "q_730",
+    "relevant_doc_ids": [
+      "13400643"
+    ]
+  },
+  {
+    "query_id": "q_732",
+    "relevant_doc_ids": [
+      "34469966"
+    ]
+  },
+  {
+    "query_id": "q_733",
+    "relevant_doc_ids": [
+      "34469966"
+    ]
+  },
+  {
+    "query_id": "q_734",
+    "relevant_doc_ids": [
+      "4961038"
+    ]
+  },
+  {
+    "query_id": "q_736",
+    "relevant_doc_ids": [
+      "5389095"
+    ]
+  },
+  {
+    "query_id": "q_737",
+    "relevant_doc_ids": [
+      "16562534",
+      "6609935"
+    ]
+  },
+  {
+    "query_id": "q_738",
+    "relevant_doc_ids": [
+      "16562534",
+      "33912020",
+      "6609935"
+    ]
+  },
+  {
+    "query_id": "q_739",
+    "relevant_doc_ids": [
+      "4446814"
+    ]
+  },
+  {
+    "query_id": "q_740",
+    "relevant_doc_ids": [
+      "23078022"
+    ]
+  },
+  {
+    "query_id": "q_745",
+    "relevant_doc_ids": [
+      "11291348"
+    ]
+  },
+  {
+    "query_id": "q_746",
+    "relevant_doc_ids": [
+      "11291348"
+    ]
+  },
+  {
+    "query_id": "q_747",
+    "relevant_doc_ids": [
+      "11291348"
+    ]
+  },
+  {
+    "query_id": "q_748",
+    "relevant_doc_ids": [
+      "11291348"
+    ]
+  },
+  {
+    "query_id": "q_749",
+    "relevant_doc_ids": [
+      "13868795"
+    ]
+  },
+  {
+    "query_id": "q_751",
+    "relevant_doc_ids": [
+      "19800147"
+    ]
+  },
+  {
+    "query_id": "q_752",
+    "relevant_doc_ids": [
+      "19800147"
+    ]
+  },
+  {
+    "query_id": "q_753",
+    "relevant_doc_ids": [
+      "1173667"
+    ]
+  },
+  {
+    "query_id": "q_755",
+    "relevant_doc_ids": [
+      "17844478"
+    ]
+  },
+  {
+    "query_id": "q_757",
+    "relevant_doc_ids": [
+      "17123657"
+    ]
+  },
+  {
+    "query_id": "q_758",
+    "relevant_doc_ids": [
+      "14195528"
+    ]
+  },
+  {
+    "query_id": "q_760",
+    "relevant_doc_ids": [
+      "1805641"
+    ]
+  },
+  {
+    "query_id": "q_761",
+    "relevant_doc_ids": [
+      "10009203"
+    ]
+  },
+  {
+    "query_id": "q_762",
+    "relevant_doc_ids": [
+      "4695046"
+    ]
+  },
+  {
+    "query_id": "q_764",
+    "relevant_doc_ids": [
+      "7552215"
+    ]
+  },
+  {
+    "query_id": "q_765",
+    "relevant_doc_ids": [
+      "7552215"
+    ]
+  },
+  {
+    "query_id": "q_766",
+    "relevant_doc_ids": [
+      "7552215"
+    ]
+  },
+  {
+    "query_id": "q_767",
+    "relevant_doc_ids": [
+      "2488880"
+    ]
+  },
+  {
+    "query_id": "q_771",
+    "relevant_doc_ids": [
+      "15476777"
+    ]
+  },
+  {
+    "query_id": "q_772",
+    "relevant_doc_ids": [
+      "24922825"
+    ]
+  },
+  {
+    "query_id": "q_774",
+    "relevant_doc_ids": [
+      "32275758"
+    ]
+  },
+  {
+    "query_id": "q_776",
+    "relevant_doc_ids": [
+      "32275758"
+    ]
+  },
+  {
+    "query_id": "q_777",
+    "relevant_doc_ids": [
+      "32275758"
+    ]
+  },
+  {
+    "query_id": "q_778",
+    "relevant_doc_ids": [
+      "13001323"
+    ]
+  },
+  {
+    "query_id": "q_779",
+    "relevant_doc_ids": [
+      "13001323"
+    ]
+  },
+  {
+    "query_id": "q_780",
+    "relevant_doc_ids": [
+      "24338780",
+      "8246922"
+    ]
+  },
+  {
+    "query_id": "q_782",
+    "relevant_doc_ids": [
+      "8246922"
+    ]
+  },
+  {
+    "query_id": "q_787",
+    "relevant_doc_ids": [
+      "4740447"
+    ]
+  },
+  {
+    "query_id": "q_788",
+    "relevant_doc_ids": [
+      "4740447"
+    ]
+  },
+  {
+    "query_id": "q_789",
+    "relevant_doc_ids": [
+      "15493354"
+    ]
+  },
+  {
+    "query_id": "q_790",
+    "relevant_doc_ids": [
+      "15493354"
+    ]
+  },
+  {
+    "query_id": "q_791",
+    "relevant_doc_ids": [
+      "15984735"
+    ]
+  },
+  {
+    "query_id": "q_792",
+    "relevant_doc_ids": [
+      "3610080"
+    ]
+  },
+  {
+    "query_id": "q_795",
+    "relevant_doc_ids": [
+      "8551160"
+    ]
+  },
+  {
+    "query_id": "q_797",
+    "relevant_doc_ids": [
+      "8551160"
+    ]
+  },
+  {
+    "query_id": "q_798",
+    "relevant_doc_ids": [
+      "8551160"
+    ]
+  },
+  {
+    "query_id": "q_799",
+    "relevant_doc_ids": [
+      "5293024"
+    ]
+  },
+  {
+    "query_id": "q_801",
+    "relevant_doc_ids": [
+      "22180793"
+    ]
+  },
+  {
+    "query_id": "q_802",
+    "relevant_doc_ids": [
+      "22180793"
+    ]
+  },
+  {
+    "query_id": "q_803",
+    "relevant_doc_ids": [
+      "22180793"
+    ]
+  },
+  {
+    "query_id": "q_804",
+    "relevant_doc_ids": [
+      "22180793"
+    ]
+  },
+  {
+    "query_id": "q_807",
+    "relevant_doc_ids": [
+      "36606083"
+    ]
+  },
+  {
+    "query_id": "q_810",
+    "relevant_doc_ids": [
+      "13513790"
+    ]
+  },
+  {
+    "query_id": "q_812",
+    "relevant_doc_ids": [
+      "19799455"
+    ]
+  },
+  {
+    "query_id": "q_813",
+    "relevant_doc_ids": [
+      "33387953"
+    ]
+  },
+  {
+    "query_id": "q_815",
+    "relevant_doc_ids": [
+      "8148304"
+    ]
+  },
+  {
+    "query_id": "q_816",
+    "relevant_doc_ids": [
+      "8148304"
+    ]
+  },
+  {
+    "query_id": "q_817",
+    "relevant_doc_ids": [
+      "17814815"
+    ]
+  },
+  {
+    "query_id": "q_818",
+    "relevant_doc_ids": [
+      "17814815"
+    ]
+  },
+  {
+    "query_id": "q_822",
+    "relevant_doc_ids": [
+      "15319019"
+    ]
+  },
+  {
+    "query_id": "q_825",
+    "relevant_doc_ids": [
+      "15319019"
+    ]
+  },
+  {
+    "query_id": "q_826",
+    "relevant_doc_ids": [
+      "4678846"
+    ]
+  },
+  {
+    "query_id": "q_828",
+    "relevant_doc_ids": [
+      "4678846"
+    ]
+  },
+  {
+    "query_id": "q_835",
+    "relevant_doc_ids": [
+      "15928989"
+    ]
+  },
+  {
+    "query_id": "q_838",
+    "relevant_doc_ids": [
+      "15928989"
+    ]
+  },
+  {
+    "query_id": "q_840",
+    "relevant_doc_ids": [
+      "15663829"
+    ]
+  },
+  {
+    "query_id": "q_841",
+    "relevant_doc_ids": [
+      "15663829"
+    ]
+  },
+  {
+    "query_id": "q_844",
+    "relevant_doc_ids": [
+      "17741440"
+    ]
+  },
+  {
+    "query_id": "q_846",
+    "relevant_doc_ids": [
+      "22696649"
+    ]
+  },
+  {
+    "query_id": "q_848",
+    "relevant_doc_ids": [
+      "14500725"
+    ]
+  },
+  {
+    "query_id": "q_853",
+    "relevant_doc_ids": [
+      "24922825"
+    ]
+  },
+  {
+    "query_id": "q_854",
+    "relevant_doc_ids": [
+      "12206390"
+    ]
+  },
+  {
+    "query_id": "q_855",
+    "relevant_doc_ids": [
+      "8190282"
+    ]
+  },
+  {
+    "query_id": "q_856",
+    "relevant_doc_ids": [
+      "43334921"
+    ]
+  },
+  {
+    "query_id": "q_857",
+    "relevant_doc_ids": [
+      "43334921"
+    ]
+  },
+  {
+    "query_id": "q_858",
+    "relevant_doc_ids": [
+      "1982286"
+    ]
+  },
+  {
+    "query_id": "q_860",
+    "relevant_doc_ids": [
+      "16066726"
+    ]
+  },
+  {
+    "query_id": "q_861",
+    "relevant_doc_ids": [
+      "16066726"
+    ]
+  },
+  {
+    "query_id": "q_863",
+    "relevant_doc_ids": [
+      "16361581",
+      "20568364"
+    ]
+  },
+  {
+    "query_id": "q_866",
+    "relevant_doc_ids": [
+      "37822406"
+    ]
+  },
+  {
+    "query_id": "q_867",
+    "relevant_doc_ids": [
+      "14340571"
+    ]
+  },
+  {
+    "query_id": "q_871",
+    "relevant_doc_ids": [
+      "195689316"
+    ]
+  },
+  {
+    "query_id": "q_876",
+    "relevant_doc_ids": [
+      "195689316"
+    ]
+  },
+  {
+    "query_id": "q_877",
+    "relevant_doc_ids": [
+      "313394"
+    ]
+  },
+  {
+    "query_id": "q_881",
+    "relevant_doc_ids": [
+      "14803797"
+    ]
+  },
+  {
+    "query_id": "q_883",
+    "relevant_doc_ids": [
+      "14803797"
+    ]
+  },
+  {
+    "query_id": "q_884",
+    "relevant_doc_ids": [
+      "14803797"
+    ]
+  },
+  {
+    "query_id": "q_885",
+    "relevant_doc_ids": [
+      "6477536"
+    ]
+  },
+  {
+    "query_id": "q_886",
+    "relevant_doc_ids": [
+      "6477536"
+    ]
+  },
+  {
+    "query_id": "q_890",
+    "relevant_doc_ids": [
+      "2097256"
+    ]
+  },
+  {
+    "query_id": "q_891",
+    "relevant_doc_ids": [
+      "2097256"
+    ]
+  },
+  {
+    "query_id": "q_893",
+    "relevant_doc_ids": [
+      "13509809"
+    ]
+  },
+  {
+    "query_id": "q_894",
+    "relevant_doc_ids": [
+      "14724693"
+    ]
+  },
+  {
+    "query_id": "q_895",
+    "relevant_doc_ids": [
+      "18750453"
+    ]
+  },
+  {
+    "query_id": "q_896",
+    "relevant_doc_ids": [
+      "14338915"
+    ]
+  },
+  {
+    "query_id": "q_897",
+    "relevant_doc_ids": [
+      "14338915"
+    ]
+  },
+  {
+    "query_id": "q_898",
+    "relevant_doc_ids": [
+      "13106686",
+      "5572127"
+    ]
+  },
+  {
+    "query_id": "q_899",
+    "relevant_doc_ids": [
+      "13106686",
+      "5572127"
+    ]
+  },
+  {
+    "query_id": "q_900",
+    "relevant_doc_ids": [
+      "18678095"
+    ]
+  },
+  {
+    "query_id": "q_901",
+    "relevant_doc_ids": [
+      "6540064"
+    ]
+  },
+  {
+    "query_id": "q_902",
+    "relevant_doc_ids": [
+      "10648422"
+    ]
+  },
+  {
+    "query_id": "q_908",
+    "relevant_doc_ids": [
+      "6923961"
+    ]
+  },
+  {
+    "query_id": "q_909",
+    "relevant_doc_ids": [
+      "11254556"
+    ]
+  },
+  {
+    "query_id": "q_910",
+    "relevant_doc_ids": [
+      "11254556"
+    ]
+  },
+  {
+    "query_id": "q_912",
+    "relevant_doc_ids": [
+      "11254556"
+    ]
+  },
+  {
+    "query_id": "q_916",
+    "relevant_doc_ids": [
+      "18037805"
+    ]
+  },
+  {
+    "query_id": "q_917",
+    "relevant_doc_ids": [
+      "34071621"
+    ]
+  },
+  {
+    "query_id": "q_919",
+    "relevant_doc_ids": [
+      "16422880"
+    ]
+  },
+  {
+    "query_id": "q_923",
+    "relevant_doc_ids": [
+      "17077004"
+    ]
+  },
+  {
+    "query_id": "q_925",
+    "relevant_doc_ids": [
+      "17077004"
+    ]
+  },
+  {
+    "query_id": "q_926",
+    "relevant_doc_ids": [
+      "16390264"
+    ]
+  },
+  {
+    "query_id": "q_927",
+    "relevant_doc_ids": [
+      "16390264"
+    ]
+  },
+  {
+    "query_id": "q_928",
+    "relevant_doc_ids": [
+      "18174210"
+    ]
+  },
+  {
+    "query_id": "q_929",
+    "relevant_doc_ids": [
+      "18174210"
+    ]
+  },
+  {
+    "query_id": "q_930",
+    "relevant_doc_ids": [
+      "16056514"
+    ]
+  },
+  {
+    "query_id": "q_933",
+    "relevant_doc_ids": [
+      "14711483"
+    ]
+  },
+  {
+    "query_id": "q_934",
+    "relevant_doc_ids": [
+      "8563659"
+    ]
+  },
+  {
+    "query_id": "q_935",
+    "relevant_doc_ids": [
+      "5483793"
+    ]
+  },
+  {
+    "query_id": "q_938",
+    "relevant_doc_ids": [
+      "26231129"
+    ]
+  },
+  {
+    "query_id": "q_939",
+    "relevant_doc_ids": [
+      "26231129"
+    ]
+  },
+  {
+    "query_id": "q_940",
+    "relevant_doc_ids": [
+      "12258338"
+    ]
+  },
+  {
+    "query_id": "q_941",
+    "relevant_doc_ids": [
+      "12258338"
+    ]
+  },
+  {
+    "query_id": "q_942",
+    "relevant_doc_ids": [
+      "11527199"
+    ]
+  },
+  {
+    "query_id": "q_944",
+    "relevant_doc_ids": [
+      "1642727"
+    ]
+  },
+  {
+    "query_id": "q_945",
+    "relevant_doc_ids": [
+      "13083189",
+      "26112696",
+      "4463588",
+      "8428935"
+    ]
+  },
+  {
+    "query_id": "q_946",
+    "relevant_doc_ids": [
+      "13083189",
+      "26112696",
+      "4463588",
+      "8428935"
+    ]
+  },
+  {
+    "query_id": "q_949",
+    "relevant_doc_ids": [
+      "13578199"
+    ]
+  },
+  {
+    "query_id": "q_951",
+    "relevant_doc_ids": [
+      "21414718"
+    ]
+  },
+  {
+    "query_id": "q_952",
+    "relevant_doc_ids": [
+      "3355397"
+    ]
+  },
+  {
+    "query_id": "q_953",
+    "relevant_doc_ids": [
+      "3355397"
+    ]
+  },
+  {
+    "query_id": "q_954",
+    "relevant_doc_ids": [
+      "3355397"
+    ]
+  },
+  {
+    "query_id": "q_955",
+    "relevant_doc_ids": [
+      "2078658",
+      "30507607"
+    ]
+  },
+  {
+    "query_id": "q_959",
+    "relevant_doc_ids": [
+      "8780599"
+    ]
+  },
+  {
+    "query_id": "q_962",
+    "relevant_doc_ids": [
+      "13931771",
+      "4306711",
+      "935538"
+    ]
+  },
+  {
+    "query_id": "q_963",
+    "relevant_doc_ids": [
+      "29828242",
+      "4162857"
+    ]
+  },
+  {
+    "query_id": "q_964",
+    "relevant_doc_ids": [
+      "29828242",
+      "4162857"
+    ]
+  },
+  {
+    "query_id": "q_965",
+    "relevant_doc_ids": [
+      "40817021"
+    ]
+  },
+  {
+    "query_id": "q_969",
+    "relevant_doc_ids": [
+      "17368516",
+      "19356271"
+    ]
+  },
+  {
+    "query_id": "q_970",
+    "relevant_doc_ids": [
+      "17368516",
+      "19356271"
+    ]
+  },
+  {
+    "query_id": "q_972",
+    "relevant_doc_ids": [
+      "27873158",
+      "28617573",
+      "46695481",
+      "9764256"
+    ]
+  },
+  {
+    "query_id": "q_973",
+    "relevant_doc_ids": [
+      "27446873",
+      "27873158",
+      "28617573",
+      "9764256"
+    ]
+  },
+  {
+    "query_id": "q_976",
+    "relevant_doc_ids": [
+      "5304891"
+    ]
+  },
+  {
+    "query_id": "q_977",
+    "relevant_doc_ids": [
+      "14075252",
+      "39264456"
+    ]
+  },
+  {
+    "query_id": "q_978",
+    "relevant_doc_ids": [
+      "14075252"
+    ]
+  },
+  {
+    "query_id": "q_979",
+    "relevant_doc_ids": [
+      "11659421"
+    ]
+  },
+  {
+    "query_id": "q_980",
+    "relevant_doc_ids": [
+      "20128547"
+    ]
+  },
+  {
+    "query_id": "q_984",
+    "relevant_doc_ids": [
+      "6828370"
+    ]
+  },
+  {
+    "query_id": "q_988",
+    "relevant_doc_ids": [
+      "3033830"
+    ]
+  },
+  {
+    "query_id": "q_989",
+    "relevant_doc_ids": [
+      "9988425"
+    ]
+  },
+  {
+    "query_id": "q_990",
+    "relevant_doc_ids": [
+      "16472469"
+    ]
+  },
+  {
+    "query_id": "q_992",
+    "relevant_doc_ids": [
+      "16472469"
+    ]
+  },
+  {
+    "query_id": "q_994",
+    "relevant_doc_ids": [
+      "16472469"
+    ]
+  },
+  {
+    "query_id": "q_996",
+    "relevant_doc_ids": [
+      "16472469"
+    ]
+  },
+  {
+    "query_id": "q_997",
+    "relevant_doc_ids": [
+      "16472469"
+    ]
+  },
+  {
+    "query_id": "q_998",
+    "relevant_doc_ids": [
+      "16472469"
+    ]
+  },
+  {
+    "query_id": "q_999",
+    "relevant_doc_ids": [
+      "16472469"
+    ]
+  },
+  {
+    "query_id": "q_1000",
+    "relevant_doc_ids": [
+      "16472469"
+    ]
+  },
+  {
+    "query_id": "q_1001",
+    "relevant_doc_ids": [
+      "5702790"
+    ]
+  },
+  {
+    "query_id": "q_1002",
+    "relevant_doc_ids": [
+      "13639330"
+    ]
+  },
+  {
+    "query_id": "q_1003",
+    "relevant_doc_ids": [
+      "14332945",
+      "4319844",
+      "4899981"
+    ]
+  },
+  {
+    "query_id": "q_1004",
+    "relevant_doc_ids": [
+      "2734421",
+      "301838",
+      "3952288"
+    ]
+  },
+  {
+    "query_id": "q_1005",
+    "relevant_doc_ids": [
+      "2734421",
+      "301838",
+      "3952288"
+    ]
+  },
+  {
+    "query_id": "q_1006",
+    "relevant_doc_ids": [
+      "4926049"
+    ]
+  },
+  {
+    "query_id": "q_1008",
+    "relevant_doc_ids": [
+      "2547636"
+    ]
+  },
+  {
+    "query_id": "q_1009",
+    "relevant_doc_ids": [
+      "1982286"
+    ]
+  },
+  {
+    "query_id": "q_1011",
+    "relevant_doc_ids": [
+      "9745001"
+    ]
+  },
+  {
+    "query_id": "q_1015",
+    "relevant_doc_ids": [
+      "6277638"
+    ]
+  },
+  {
+    "query_id": "q_1016",
+    "relevant_doc_ids": [
+      "6277638"
+    ]
+  },
+  {
+    "query_id": "q_1018",
+    "relevant_doc_ids": [
+      "11603066"
+    ]
+  },
+  {
+    "query_id": "q_1023",
+    "relevant_doc_ids": [
+      "16927286"
+    ]
+  },
+  {
+    "query_id": "q_1025",
+    "relevant_doc_ids": [
+      "32408470"
+    ]
+  },
+  {
+    "query_id": "q_1026",
+    "relevant_doc_ids": [
+      "3113630"
+    ]
+  },
+  {
+    "query_id": "q_1027",
+    "relevant_doc_ids": [
+      "3113630"
+    ]
+  },
+  {
+    "query_id": "q_1028",
+    "relevant_doc_ids": [
+      "11899391",
+      "13923140"
+    ]
+  },
+  {
+    "query_id": "q_1030",
+    "relevant_doc_ids": [
+      "6441369"
+    ]
+  },
+  {
+    "query_id": "q_1031",
+    "relevant_doc_ids": [
+      "12486491"
+    ]
+  },
+  {
+    "query_id": "q_1032",
+    "relevant_doc_ids": [
+      "6836086"
+    ]
+  },
+  {
+    "query_id": "q_1033",
+    "relevant_doc_ids": [
+      "6836086"
+    ]
+  },
+  {
+    "query_id": "q_1034",
+    "relevant_doc_ids": [
+      "4547102"
+    ]
+  },
+  {
+    "query_id": "q_1035",
+    "relevant_doc_ids": [
+      "4547102"
+    ]
+  },
+  {
+    "query_id": "q_1036",
+    "relevant_doc_ids": [
+      "4547102"
+    ]
+  },
+  {
+    "query_id": "q_1037",
+    "relevant_doc_ids": [
+      "16287725"
+    ]
+  },
+  {
+    "query_id": "q_1038",
+    "relevant_doc_ids": [
+      "16287725"
+    ]
+  },
+  {
+    "query_id": "q_1040",
+    "relevant_doc_ids": [
+      "16626264",
+      "25254425"
+    ]
+  },
+  {
+    "query_id": "q_1042",
+    "relevant_doc_ids": [
+      "17421851"
+    ]
+  },
+  {
+    "query_id": "q_1043",
+    "relevant_doc_ids": [
+      "17671145"
+    ]
+  },
+  {
+    "query_id": "q_1044",
+    "relevant_doc_ids": [
+      "22500262"
+    ]
+  },
+  {
+    "query_id": "q_1045",
+    "relevant_doc_ids": [
+      "22500262"
+    ]
+  },
+  {
+    "query_id": "q_1046",
+    "relevant_doc_ids": [
+      "16712164",
+      "418246",
+      "4324278"
+    ]
+  },
+  {
+    "query_id": "q_1047",
+    "relevant_doc_ids": [
+      "14706752"
+    ]
+  },
+  {
+    "query_id": "q_1048",
+    "relevant_doc_ids": [
+      "12486491"
+    ]
+  },
+  {
+    "query_id": "q_1050",
+    "relevant_doc_ids": [
+      "19878070"
+    ]
+  },
+  {
+    "query_id": "q_1052",
+    "relevant_doc_ids": [
+      "18816720"
+    ]
+  },
+  {
+    "query_id": "q_1053",
+    "relevant_doc_ids": [
+      "18816720"
+    ]
+  },
+  {
+    "query_id": "q_1054",
+    "relevant_doc_ids": [
+      "10072941"
+    ]
+  },
+  {
+    "query_id": "q_1055",
+    "relevant_doc_ids": [
+      "13906581"
+    ]
+  },
+  {
+    "query_id": "q_1056",
+    "relevant_doc_ids": [
+      "4200695"
+    ]
+  },
+  {
+    "query_id": "q_1058",
+    "relevant_doc_ids": [
+      "13027590"
+    ]
+  },
+  {
+    "query_id": "q_1065",
+    "relevant_doc_ids": [
+      "20418809"
+    ]
+  },
+  {
+    "query_id": "q_1067",
+    "relevant_doc_ids": [
+      "4429668"
+    ]
+  },
+  {
+    "query_id": "q_1068",
+    "relevant_doc_ids": [
+      "4429668"
+    ]
+  },
+  {
+    "query_id": "q_1069",
+    "relevant_doc_ids": [
+      "4200695"
+    ]
+  },
+  {
+    "query_id": "q_1070",
+    "relevant_doc_ids": [
+      "25649714"
+    ]
+  },
+  {
+    "query_id": "q_1072",
+    "relevant_doc_ids": [
+      "4824840"
+    ]
+  },
+  {
+    "query_id": "q_1073",
+    "relevant_doc_ids": [
+      "4824840"
+    ]
+  },
+  {
+    "query_id": "q_1074",
+    "relevant_doc_ids": [
+      "14658685"
+    ]
+  },
+  {
+    "query_id": "q_1075",
+    "relevant_doc_ids": [
+      "14658685"
+    ]
+  },
+  {
+    "query_id": "q_1081",
+    "relevant_doc_ids": [
+      "5691302"
+    ]
+  },
+  {
+    "query_id": "q_1084",
+    "relevant_doc_ids": [
+      "5691302"
+    ]
+  },
+  {
+    "query_id": "q_1085",
+    "relevant_doc_ids": [
+      "5691302"
+    ]
+  },
+  {
+    "query_id": "q_1087",
+    "relevant_doc_ids": [
+      "39281140"
+    ]
+  },
+  {
+    "query_id": "q_1090",
+    "relevant_doc_ids": [
+      "17628888"
+    ]
+  },
+  {
+    "query_id": "q_1091",
+    "relevant_doc_ids": [
+      "2603304"
+    ]
+  },
+  {
+    "query_id": "q_1096",
+    "relevant_doc_ids": [
+      "29638116"
+    ]
+  },
+  {
+    "query_id": "q_1097",
+    "relevant_doc_ids": [
+      "26851674"
+    ]
+  },
+  {
+    "query_id": "q_1098",
+    "relevant_doc_ids": [
+      "13552682"
+    ]
+  },
+  {
+    "query_id": "q_1101",
+    "relevant_doc_ids": [
+      "3874000"
+    ]
+  },
+  {
+    "query_id": "q_1102",
+    "relevant_doc_ids": [
+      "3874000"
+    ]
+  },
+  {
+    "query_id": "q_1103",
+    "relevant_doc_ids": [
+      "3898784"
+    ]
+  },
+  {
+    "query_id": "q_1105",
+    "relevant_doc_ids": [
+      "6710713"
+    ]
+  },
+  {
+    "query_id": "q_1106",
+    "relevant_doc_ids": [
+      "6710713"
+    ]
+  },
+  {
+    "query_id": "q_1109",
+    "relevant_doc_ids": [
+      "13770184",
+      "8582337"
+    ]
+  },
+  {
+    "query_id": "q_1111",
+    "relevant_doc_ids": [
+      "1686881"
+    ]
+  },
+  {
+    "query_id": "q_1112",
+    "relevant_doc_ids": [
+      "1686881"
+    ]
+  },
+  {
+    "query_id": "q_1114",
+    "relevant_doc_ids": [
+      "12824568"
+    ]
+  },
+  {
+    "query_id": "q_1115",
+    "relevant_doc_ids": [
+      "44048701"
+    ]
+  },
+  {
+    "query_id": "q_1118",
+    "relevant_doc_ids": [
+      "23351136"
+    ]
+  },
+  {
+    "query_id": "q_1119",
+    "relevant_doc_ids": [
+      "13907928",
+      "18997216",
+      "5323845"
+    ]
+  },
+  {
+    "query_id": "q_1120",
+    "relevant_doc_ids": [
+      "13907928",
+      "18997216",
+      "5323845"
+    ]
+  },
+  {
+    "query_id": "q_1125",
+    "relevant_doc_ids": [
+      "21009874"
+    ]
+  },
+  {
+    "query_id": "q_1126",
+    "relevant_doc_ids": [
+      "21009874"
+    ]
+  },
+  {
+    "query_id": "q_1127",
+    "relevant_doc_ids": [
+      "27466734"
+    ]
+  },
+  {
+    "query_id": "q_1128",
+    "relevant_doc_ids": [
+      "33499189",
+      "9283422"
+    ]
+  },
+  {
+    "query_id": "q_1133",
+    "relevant_doc_ids": [
+      "24142891"
+    ]
+  },
+  {
+    "query_id": "q_1134",
+    "relevant_doc_ids": [
+      "33370"
+    ]
+  },
+  {
+    "query_id": "q_1135",
+    "relevant_doc_ids": [
+      "33370"
+    ]
+  },
+  {
+    "query_id": "q_1136",
+    "relevant_doc_ids": [
+      "33370"
+    ]
+  },
+  {
+    "query_id": "q_1138",
+    "relevant_doc_ids": [
+      "6796297"
+    ]
+  },
+  {
+    "query_id": "q_1139",
+    "relevant_doc_ids": [
+      "12009265"
+    ]
+  },
+  {
+    "query_id": "q_1141",
+    "relevant_doc_ids": [
+      "12009265"
+    ]
+  },
+  {
+    "query_id": "q_1142",
+    "relevant_doc_ids": [
+      "5260382"
+    ]
+  },
+  {
+    "query_id": "q_1145",
+    "relevant_doc_ids": [
+      "10071552"
+    ]
+  },
+  {
+    "query_id": "q_1148",
+    "relevant_doc_ids": [
+      "4828631"
+    ]
+  },
+  {
+    "query_id": "q_1153",
+    "relevant_doc_ids": [
+      "7370282"
+    ]
+  },
+  {
+    "query_id": "q_1156",
+    "relevant_doc_ids": [
+      "12584053"
+    ]
+  },
+  {
+    "query_id": "q_1157",
+    "relevant_doc_ids": [
+      "12584053"
+    ]
+  },
+  {
+    "query_id": "q_1158",
+    "relevant_doc_ids": [
+      "12584053"
+    ]
+  },
+  {
+    "query_id": "q_1159",
+    "relevant_doc_ids": [
+      "12584053"
+    ]
+  },
+  {
+    "query_id": "q_1161",
+    "relevant_doc_ids": [
+      "13048272"
+    ]
+  },
+  {
+    "query_id": "q_1162",
+    "relevant_doc_ids": [
+      "15305881"
+    ]
+  },
+  {
+    "query_id": "q_1164",
+    "relevant_doc_ids": [
+      "4455466"
+    ]
+  },
+  {
+    "query_id": "q_1165",
+    "relevant_doc_ids": [
+      "4455466"
+    ]
+  },
+  {
+    "query_id": "q_1166",
+    "relevant_doc_ids": [
+      "9889151"
+    ]
+  },
+  {
+    "query_id": "q_1168",
+    "relevant_doc_ids": [
+      "8563659"
+    ]
+  },
+  {
+    "query_id": "q_1169",
+    "relevant_doc_ids": [
+      "4319174"
+    ]
+  },
+  {
+    "query_id": "q_1170",
+    "relevant_doc_ids": [
+      "18956141"
+    ]
+  },
+  {
+    "query_id": "q_1171",
+    "relevant_doc_ids": [
+      "18956141"
+    ]
+  },
+  {
+    "query_id": "q_1173",
+    "relevant_doc_ids": [
+      "7370282"
+    ]
+  },
+  {
+    "query_id": "q_1174",
+    "relevant_doc_ids": [
+      "31272411"
+    ]
+  },
+  {
+    "query_id": "q_1176",
+    "relevant_doc_ids": [
+      "13910150"
+    ]
+  },
+  {
+    "query_id": "q_1177",
+    "relevant_doc_ids": [
+      "13910150"
+    ]
+  },
+  {
+    "query_id": "q_1178",
+    "relevant_doc_ids": [
+      "31272411"
+    ]
+  },
+  {
+    "query_id": "q_1181",
+    "relevant_doc_ids": [
+      "2734421",
+      "301838",
+      "39128592",
+      "3952288"
+    ]
+  },
+  {
+    "query_id": "q_1182",
+    "relevant_doc_ids": [
+      "14541844"
+    ]
+  },
+  {
+    "query_id": "q_1183",
+    "relevant_doc_ids": [
+      "1967017"
+    ]
+  },
+  {
+    "query_id": "q_1184",
+    "relevant_doc_ids": [
+      "16737210"
+    ]
+  },
+  {
+    "query_id": "q_1186",
+    "relevant_doc_ids": [
+      "7485455"
+    ]
+  },
+  {
+    "query_id": "q_1188",
+    "relevant_doc_ids": [
+      "4394817"
+    ]
+  },
+  {
+    "query_id": "q_1190",
+    "relevant_doc_ids": [
+      "30655442"
+    ]
+  },
+  {
+    "query_id": "q_1193",
+    "relevant_doc_ids": [
+      "20532591"
+    ]
+  },
+  {
+    "query_id": "q_1195",
+    "relevant_doc_ids": [
+      "26283293"
+    ]
+  },
+  {
+    "query_id": "q_1205",
+    "relevant_doc_ids": [
+      "5558754"
+    ]
+  },
+  {
+    "query_id": "q_1206",
+    "relevant_doc_ids": [
+      "18909530"
+    ]
+  },
+  {
+    "query_id": "q_1208",
+    "relevant_doc_ids": [
+      "10284593"
+    ]
+  },
+  {
+    "query_id": "q_1209",
+    "relevant_doc_ids": [
+      "4347374"
+    ]
+  },
+  {
+    "query_id": "q_1210",
+    "relevant_doc_ids": [
+      "4928282"
+    ]
+  },
+  {
+    "query_id": "q_1211",
+    "relevant_doc_ids": [
+      "4928282"
+    ]
+  },
+  {
+    "query_id": "q_1212",
+    "relevant_doc_ids": [
+      "44724517",
+      "6493422"
+    ]
+  },
+  {
+    "query_id": "q_1214",
+    "relevant_doc_ids": [
+      "14407673",
+      "6493422"
+    ]
+  },
+  {
+    "query_id": "q_1215",
+    "relevant_doc_ids": [
+      "16355392"
+    ]
+  },
+  {
+    "query_id": "q_1218",
+    "relevant_doc_ids": [
+      "15635366"
+    ]
+  },
+  {
+    "query_id": "q_1219",
+    "relevant_doc_ids": [
+      "14864285",
+      "9393969"
+    ]
+  },
+  {
+    "query_id": "q_1220",
+    "relevant_doc_ids": [
+      "13023410"
+    ]
+  },
+  {
+    "query_id": "q_1223",
+    "relevant_doc_ids": [
+      "5289038"
+    ]
+  },
+  {
+    "query_id": "q_1224",
+    "relevant_doc_ids": [
+      "21932050",
+      "34016987"
+    ]
+  },
+  {
+    "query_id": "q_1227",
+    "relevant_doc_ids": [
+      "25641414"
+    ]
+  },
+  {
+    "query_id": "q_1228",
+    "relevant_doc_ids": [
+      "25641414"
+    ]
+  },
+  {
+    "query_id": "q_1229",
+    "relevant_doc_ids": [
+      "1676568"
+    ]
+  },
+  {
+    "query_id": "q_1230",
+    "relevant_doc_ids": [
+      "13905670"
+    ]
+  },
+  {
+    "query_id": "q_1231",
+    "relevant_doc_ids": [
+      "13905670"
+    ]
+  },
+  {
+    "query_id": "q_1234",
+    "relevant_doc_ids": [
+      "13905670"
+    ]
+  },
+  {
+    "query_id": "q_1235",
+    "relevant_doc_ids": [
+      "17973161"
+    ]
+  },
+  {
+    "query_id": "q_1236",
+    "relevant_doc_ids": [
+      "17973161"
+    ]
+  },
+  {
+    "query_id": "q_1237",
+    "relevant_doc_ids": [
+      "3654468"
+    ]
+  },
+  {
+    "query_id": "q_1238",
+    "relevant_doc_ids": [
+      "3654468"
+    ]
+  },
+  {
+    "query_id": "q_1239",
+    "relevant_doc_ids": [
+      "21387297",
+      "4427392"
+    ]
+  },
+  {
+    "query_id": "q_1244",
+    "relevant_doc_ids": [
+      "18949516"
+    ]
+  },
+  {
+    "query_id": "q_1246",
+    "relevant_doc_ids": [
+      "7662395"
+    ]
+  },
+  {
+    "query_id": "q_1247",
+    "relevant_doc_ids": [
+      "5114282"
+    ]
+  },
+  {
+    "query_id": "q_1248",
+    "relevant_doc_ids": [
+      "7209559"
+    ]
+  },
+  {
+    "query_id": "q_1249",
+    "relevant_doc_ids": [
+      "7209559"
+    ]
+  },
+  {
+    "query_id": "q_1253",
+    "relevant_doc_ids": [
+      "3321943"
+    ]
+  },
+  {
+    "query_id": "q_1254",
+    "relevant_doc_ids": [
+      "16939583"
+    ]
+  },
+  {
+    "query_id": "q_1255",
+    "relevant_doc_ids": [
+      "16939583"
+    ]
+  },
+  {
+    "query_id": "q_1257",
+    "relevant_doc_ids": [
+      "581832"
+    ]
+  },
+  {
+    "query_id": "q_1258",
+    "relevant_doc_ids": [
+      "12040627"
+    ]
+  },
+  {
+    "query_id": "q_1260",
+    "relevant_doc_ids": [
+      "24341590"
+    ]
+  },
+  {
+    "query_id": "q_1261",
+    "relevant_doc_ids": [
+      "13023410"
+    ]
+  },
+  {
+    "query_id": "q_1263",
+    "relevant_doc_ids": [
+      "3981729"
+    ]
+  },
+  {
+    "query_id": "q_1265",
+    "relevant_doc_ids": [
+      "37480103"
+    ]
+  },
+  {
+    "query_id": "q_1268",
+    "relevant_doc_ids": [
+      "52072815"
+    ]
+  },
+  {
+    "query_id": "q_1269",
+    "relevant_doc_ids": [
+      "13900610"
+    ]
+  },
+  {
+    "query_id": "q_1275",
+    "relevant_doc_ids": [
+      "27731651"
+    ]
+  },
+  {
+    "query_id": "q_1276",
+    "relevant_doc_ids": [
+      "3475317"
+    ]
+  },
+  {
+    "query_id": "q_1284",
+    "relevant_doc_ids": [
+      "3578380"
+    ]
+  },
+  {
+    "query_id": "q_1288",
+    "relevant_doc_ids": [
+      "4687948"
+    ]
+  },
+  {
+    "query_id": "q_1289",
+    "relevant_doc_ids": [
+      "21239672"
+    ]
+  },
+  {
+    "query_id": "q_1291",
+    "relevant_doc_ids": [
+      "56893404"
+    ]
+  },
+  {
+    "query_id": "q_1293",
+    "relevant_doc_ids": [
+      "43329366"
+    ]
+  },
+  {
+    "query_id": "q_1294",
+    "relevant_doc_ids": [
+      "2078658",
+      "30507607"
+    ]
+  },
+  {
+    "query_id": "q_1295",
+    "relevant_doc_ids": [
+      "21239672"
+    ]
+  },
+  {
+    "query_id": "q_1297",
+    "relevant_doc_ids": [
+      "9167230"
+    ]
+  },
+  {
+    "query_id": "q_1300",
+    "relevant_doc_ids": [
+      "6421792"
+    ]
+  },
+  {
+    "query_id": "q_1302",
+    "relevant_doc_ids": [
+      "12631697"
+    ]
+  },
+  {
+    "query_id": "q_1304",
+    "relevant_doc_ids": [
+      "12631697"
+    ]
+  },
+  {
+    "query_id": "q_1305",
+    "relevant_doc_ids": [
+      "12631697"
+    ]
+  },
+  {
+    "query_id": "q_1306",
+    "relevant_doc_ids": [
+      "5836",
+      "6000423"
+    ]
+  },
+  {
+    "query_id": "q_1307",
+    "relevant_doc_ids": [
+      "18231807"
+    ]
+  },
+  {
+    "query_id": "q_1308",
+    "relevant_doc_ids": [
+      "18231807"
+    ]
+  },
+  {
+    "query_id": "q_1309",
+    "relevant_doc_ids": [
+      "18231807"
+    ]
+  },
+  {
+    "query_id": "q_1310",
+    "relevant_doc_ids": [
+      "8042158"
+    ]
+  },
+  {
+    "query_id": "q_1311",
+    "relevant_doc_ids": [
+      "13763195"
+    ]
+  },
+  {
+    "query_id": "q_1312",
+    "relevant_doc_ids": [
+      "24177706"
+    ]
+  },
+  {
+    "query_id": "q_1314",
+    "relevant_doc_ids": [
+      "13072112",
+      "16237005"
+    ]
+  },
+  {
+    "query_id": "q_1315",
+    "relevant_doc_ids": [
+      "13072112",
+      "16237005"
+    ]
+  },
+  {
+    "query_id": "q_1322",
+    "relevant_doc_ids": [
+      "16284655"
+    ]
+  },
+  {
+    "query_id": "q_1323",
+    "relevant_doc_ids": [
+      "19912367"
+    ]
+  },
+  {
+    "query_id": "q_1324",
+    "relevant_doc_ids": [
+      "19912367"
+    ]
+  },
+  {
+    "query_id": "q_1325",
+    "relevant_doc_ids": [
+      "40476126"
+    ]
+  },
+  {
+    "query_id": "q_1327",
+    "relevant_doc_ids": [
+      "22194407",
+      "24241932"
+    ]
+  },
+  {
+    "query_id": "q_1328",
+    "relevant_doc_ids": [
+      "3475317"
+    ]
+  },
+  {
+    "query_id": "q_1330",
+    "relevant_doc_ids": [
+      "14075252"
+    ]
+  },
+  {
+    "query_id": "q_1331",
+    "relevant_doc_ids": [
+      "14075252"
+    ]
+  },
+  {
+    "query_id": "q_1333",
+    "relevant_doc_ids": [
+      "1649738"
+    ]
+  },
+  {
+    "query_id": "q_1334",
+    "relevant_doc_ids": [
+      "11899391",
+      "13923140",
+      "13940200"
+    ]
+  },
+  {
+    "query_id": "q_1340",
+    "relevant_doc_ids": [
+      "15482274"
+    ]
+  },
+  {
+    "query_id": "q_1341",
+    "relevant_doc_ids": [
+      "15482274"
+    ]
+  },
+  {
+    "query_id": "q_1342",
+    "relevant_doc_ids": [
+      "8148122"
+    ]
+  },
+  {
+    "query_id": "q_1345",
+    "relevant_doc_ids": [
+      "9559146"
+    ]
+  },
+  {
+    "query_id": "q_1346",
+    "relevant_doc_ids": [
+      "9505402"
+    ]
+  },
+  {
+    "query_id": "q_1347",
+    "relevant_doc_ids": [
+      "19005293"
+    ]
+  },
+  {
+    "query_id": "q_1348",
+    "relevant_doc_ids": [
+      "19005293"
+    ]
+  },
+  {
+    "query_id": "q_1349",
+    "relevant_doc_ids": [
+      "5377642"
+    ]
+  },
+  {
+    "query_id": "q_1350",
+    "relevant_doc_ids": [
+      "5377642"
+    ]
+  },
+  {
+    "query_id": "q_1351",
+    "relevant_doc_ids": [
+      "28369117"
+    ]
+  },
+  {
+    "query_id": "q_1353",
+    "relevant_doc_ids": [
+      "18816720"
+    ]
+  },
+  {
+    "query_id": "q_1355",
+    "relevant_doc_ids": [
+      "5256564"
+    ]
+  },
+  {
+    "query_id": "q_1356",
+    "relevant_doc_ids": [
+      "13764090"
+    ]
+  },
+  {
+    "query_id": "q_1360",
+    "relevant_doc_ids": [
+      "11614737"
+    ]
+  },
+  {
+    "query_id": "q_1361",
+    "relevant_doc_ids": [
+      "15058155",
+      "15488881"
+    ]
+  },
+  {
+    "query_id": "q_1364",
+    "relevant_doc_ids": [
+      "8290953"
+    ]
+  },
+  {
+    "query_id": "q_1366",
+    "relevant_doc_ids": [
+      "4406819"
+    ]
+  },
+  {
+    "query_id": "q_1367",
+    "relevant_doc_ids": [
+      "2425364"
+    ]
+  },
+  {
+    "query_id": "q_1371",
+    "relevant_doc_ids": [
+      "16256507"
+    ]
+  },
+  {
+    "query_id": "q_1372",
+    "relevant_doc_ids": [
+      "21003930"
+    ]
+  },
+  {
+    "query_id": "q_1373",
+    "relevant_doc_ids": [
+      "21003930"
+    ]
+  },
+  {
+    "query_id": "q_1374",
+    "relevant_doc_ids": [
+      "21993510"
+    ]
+  },
+  {
+    "query_id": "q_1375",
+    "relevant_doc_ids": [
+      "21993510"
+    ]
+  },
+  {
+    "query_id": "q_1376",
+    "relevant_doc_ids": [
+      "3944632"
+    ]
+  },
+  {
+    "query_id": "q_1378",
+    "relevant_doc_ids": [
+      "2488880"
+    ]
+  },
+  {
+    "query_id": "q_1380",
+    "relevant_doc_ids": [
+      "16322674",
+      "17450673",
+      "23557241"
+    ]
+  },
+  {
+    "query_id": "q_1381",
+    "relevant_doc_ids": [
+      "13481880"
+    ]
+  },
+  {
+    "query_id": "q_1383",
+    "relevant_doc_ids": [
+      "17755060"
+    ]
+  },
+  {
+    "query_id": "q_1386",
+    "relevant_doc_ids": [
+      "306006"
+    ]
+  },
+  {
+    "query_id": "q_1387",
+    "relevant_doc_ids": [
+      "9669099"
+    ]
+  },
+  {
+    "query_id": "q_1390",
+    "relevant_doc_ids": [
+      "2890952"
+    ]
+  },
+  {
+    "query_id": "q_1391",
+    "relevant_doc_ids": [
+      "6766459"
+    ]
+  },
+  {
+    "query_id": "q_1392",
+    "relevant_doc_ids": [
+      "6766459"
+    ]
+  },
+  {
+    "query_id": "q_1393",
+    "relevant_doc_ids": [
+      "12440953",
+      "2000038"
+    ]
+  },
+  {
+    "query_id": "q_1394",
+    "relevant_doc_ids": [
+      "2251426"
+    ]
+  },
+  {
+    "query_id": "q_1397",
+    "relevant_doc_ids": [
+      "17717391"
+    ]
+  },
+  {
+    "query_id": "q_1398",
+    "relevant_doc_ids": [
+      "17717391"
+    ]
+  },
+  {
+    "query_id": "q_1400",
+    "relevant_doc_ids": [
+      "14706752"
+    ]
+  },
+  {
+    "query_id": "q_1401",
+    "relevant_doc_ids": [
+      "5185871"
+    ]
+  },
+  {
+    "query_id": "q_1402",
+    "relevant_doc_ids": [
+      "8126244"
+    ]
+  },
+  {
+    "query_id": "q_1403",
+    "relevant_doc_ids": [
+      "33370",
+      "38355793"
+    ]
+  },
+  {
+    "query_id": "q_1404",
+    "relevant_doc_ids": [
+      "33370",
+      "38355793"
+    ]
+  },
+  {
+    "query_id": "q_1405",
+    "relevant_doc_ids": [
+      "10504681"
+    ]
+  },
+  {
+    "query_id": "q_1406",
+    "relevant_doc_ids": [
+      "2617858"
+    ]
+  },
+  {
+    "query_id": "q_1407",
+    "relevant_doc_ids": [
+      "29863668",
+      "8087082"
     ]
   }
 ]

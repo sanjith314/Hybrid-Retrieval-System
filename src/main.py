@@ -2,6 +2,7 @@
 
 Usage:
     python -m src.main build-stub-index
+    python -m src.main load-scifact
     python -m src.main build-index
     python -m src.main embed-index
     python -m src.main search --query "..." --top-k 10 --mode hybrid
@@ -20,6 +21,7 @@ from src.application.search_use_case import SearchUseCase
 from src.config.settings import Settings
 from src.infrastructure.data.corpus_store import InMemoryCorpusStore
 from src.infrastructure.data.dataset_loader import JsonFileDatasetLoader
+from src.infrastructure.data.scifact_loader import download_and_convert
 from src.infrastructure.evaluation.metrics import MetricsEngine
 from src.infrastructure.fusion.weighted_fusion import WeightedFusion
 from src.infrastructure.retrieval.bm25_retriever import BM25Retriever
@@ -87,6 +89,19 @@ def cmd_build_stub_index(args: argparse.Namespace) -> None:
 
     print(f"✓ Sample data generated under {settings.data_dir / 'raw'}")
     print(f"  {len(docs)} documents, {len(queries)} queries, {len(qrels)} qrel entries")
+
+
+def cmd_load_scifact(args: argparse.Namespace) -> None:
+    settings = Settings()
+    settings.ensure_dirs()
+
+    print("Loading SciFact dataset from HuggingFace...")
+    stats = download_and_convert(settings.data_dir)
+    print(f"\n✓ SciFact loaded: {stats['documents']} docs, "
+          f"{stats['queries']} queries, {stats['qrels']} qrel entries")
+    print("\nNext steps:")
+    print("  1. python -m src.main build-index    (rebuild BM25)")
+    print("  2. python -m src.main embed-index    (rebuild SBERT — several minutes)")
 
 
 def cmd_build_index(args: argparse.Namespace) -> None:
@@ -191,6 +206,9 @@ def build_parser() -> argparse.ArgumentParser:
     # build-stub-index
     sub.add_parser("build-stub-index", help="Generate sample data files")
 
+    # load-scifact
+    sub.add_parser("load-scifact", help="Download SciFact dataset from HuggingFace")
+
     # build-index
     sub.add_parser("build-index", help="Build BM25 index from corpus data")
 
@@ -219,6 +237,7 @@ def main() -> None:
 
     dispatch = {
         "build-stub-index": cmd_build_stub_index,
+        "load-scifact": cmd_load_scifact,
         "build-index": cmd_build_index,
         "embed-index": cmd_embed_index,
         "search": cmd_search,
